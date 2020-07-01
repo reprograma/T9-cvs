@@ -1,0 +1,158 @@
+{
+  "nome_completo": "Jemima Campanha Matheus",
+  "o_que_eu_quero": "Busco oportunidades na área de tecnologia, que estejam alinhadas ao processo de transformação digital e que tenha um impacto positivo na vida de pessoas reais.",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/jemimatheus/",
+  "link_github": "https://github.com/jemimatheus",
+  "email": "jemima.ramoscampanha@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Comecei minha vida profissional trabalhando em uma loja de materias de construção e foi onde adquiri minhas primeiras habilidades além de entender e ajudar os usuários, ter empatia e um bom relacionamento.",
+    "Conheci a área da tecnologia após a conclusão do ensino médio, quando entrei para um curso de Técnico em TI, e essa aréa se tornou minha paixão desde então.",
+     " A partir do curso as minhas experiências foram todas ligadas a Tecnologia, trabalhei por muitos anos com suporte técnico, gestão de acessos e com operações de TI.",
+      "Agora como uma desenvolvedora Front-End quero continuar desenvolvendo meus conhecimentos na área, aprimorando mais minhas habilidade em querer resolver os problemas dos usuários."
+
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Analista de Operaçõe de TI",
+      "empresa": "Geru Tecnologia e Serviços S.A",
+      "periodo": "Jan/2019 a Mar/2020",
+      "atividades_desenvolvidas": "Controle, compra e manutenção de equipamentos de TI. Responsável pelo contrato da empresa de Suporte Interno. Atendimento de nível 2 e 3 de chamados referentes a plataforma de empréstimos, alteração e correção de bugs nos perfis. Acompanhar o monitoramento da infra do site e sinalizar aos responsáveis as indisponibilidades dos serviços. Utilização das ferramentas logentries, logdna, AWS, Zabbix, Grafana",
+      "link": "https://www.geru.com.br/"
+    },
+    {
+      "cargo_funcao": "Analista de TI",
+      "empresa": "Digisystem - Metrô SP",
+      "periodo": "Jun/2018 a Dez/2018",
+      "atividades_desenvolvidas": "Atendimento de funcionários do metrô, tantos nas estações quanto no escritório, suporte a problemas de equipamentos, acessos, configurações de sistemas.",
+      "link": "http://www.metro.sp.gov.br/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Front-end",
+      "instituicao": "Reprograma",
+      "periodo": "Mar/2020 a Jul/2020",
+      "resumo_conhecimentos_aprendidos": "Curso integral e imersivo, que me apresentou o mundo do desenvolvimento de uma forma completamente diferente, me mostrou a importância da dedicação e da confiança em si mesma. Desenvolvi desde projetos de aplicativos de simples a mais complexos até sites para clientes reais. A cada desafio me senti mais motivada a me tornar uma profissional melhor. Aprendi a importância de trabalhar em colaboração, aprender para ensinar."
+    },
+    {
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "Universidade Cruzeiro do Sul",
+      "periodo": "Jan/2019 a jun/2021",
+      "resumo_conhecimentos_aprendidos": "O Curso é feito no modelo EAD com os conteúdos de Modelagem de Dados, Programação Orientada a Objetos,Programação web,Algoritmo, Modelagem de Dados, Engenharia de Software Redes. Em cada módulo do curso temos que fazer um projeto onde desenvolvi um modelo relacional de banco de dados, e um algoritmo para um sistema de uma faculdade. Como projeto final deverá ser desenvolvido um sistema modelo Kanbam."
+
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online PMBOK",
+      "instituicao": "Estácio Cursos",
+      "resumo_conhecimentos_interesses": "Descreve como utilizar boas práticas para Gerenciamento de Projetos"
+    },
+    {
+      "interesse_evento_curso": "Scrum Foundation Professional Certificate",
+      "instituicao": "Certiprof",
+      "resumo_conhecimentos_interesses": "Metodologias ágeis e praticas de Scrum"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "AWS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "LINUX",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 5
+    },
+  
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "LOGENTRIES",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "SENTRY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "LOGDNA",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "LOGENTRIES",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GRAFANA",
+      "pontuacao": 6
+    }
+  ]
+ 
+}
