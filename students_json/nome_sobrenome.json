@@ -4,7 +4,7 @@
   "cidade_estado:": "São Paulo/SP",
   "link_linkedin": "https://www.linkedin.com/in/odaraya-mello",
   "link_github": "hhttps://github.com/Odaraya",
-  "email": "seuemail@gmail.com",
+  "email": "odarayamello@gmail.com",
   "um_pouco_sobre_mim": [
     "Aqui é um parágrafo descrevendo um pouco sobre você",
     "Aqui é outro parágrafo falando sobre sua trajetória",
@@ -60,11 +60,11 @@
     },
     {
       "habilidade_ferramenta": "CSS",
-      "pontuacao": 9
+      "pontuacao": 5
     },
     {
       "habilidade_ferramenta": "SASS",
-      "pontuacao": 6
+      "pontuacao": 0
     },
     {
       "habilidade_ferramenta": "JAVASCRIPT",
@@ -84,19 +84,19 @@
     },
     {
       "habilidade_ferramenta": "BOOTSTRAP",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "REACT",
       "pontuacao": 8
     },
     {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 9
+    },
+    {
       "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
-      "pontuacao": 5
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "RESPONSIVIDADE",
-      "pontuacao": 9
+      "pontuacao": 8
     },
     {
       "habilidade_ferramenta": "UX DESIGN",
@@ -104,43 +104,43 @@
     },
     {
       "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
-      "pontuacao": 6
-    },
-    {
-      "habilidade_ferramenta": "WORDPRESS",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "PHP",
-      "pontuacao": 3
-    },
-    {
-      "habilidade_ferramenta": "MySQL",
-      "pontuacao": 3
-    },
-    {
-      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "FTP",
       "pontuacao": 5
     },
     {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 0
+    },
+    {
       "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
-      "pontuacao": 8
+      "pontuacao": 5
     },
     {
       "habilidade_ferramenta": "PHOTOSHOP",
-      "pontuacao": 9
+      "pontuacao": 0
     },
     {
       "habilidade_ferramenta": "ILUSTRATOR",
-      "pontuacao": 9
+      "pontuacao": 5
     },
     {
       "habilidade_ferramenta": "INDESIGN",
-      "pontuacao": 9
+      "pontuacao": 5
     }
   ]
 }
