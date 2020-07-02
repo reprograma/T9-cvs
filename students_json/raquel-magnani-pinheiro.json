@@ -1,0 +1,136 @@
+{
+  "nome_completo": "Raquel Magnani Pinheiro",
+  "o_que_eu_quero": "Meu objetivo é encontrar oportunidades na área de tecnologia e desenvolvimento front-end, trabalhando em projetos que me desafiem e me permitam crescer como programadora.",
+  "cidade_estado:": "São Bernardo do Campo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/raquel-magnani-pinheiro/",
+  "link_github": "https://github.com/RaquelMagnani",
+  "email": "quel.magnani88@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou uma pessoa curiosa que gosta de desafios e aprender coisas novas.",
+    "Trabalhei em empresa de tecnologia, porém na area administrativa.",
+    "Hoje, busco outro caminho profissional e a ideia de produzir tecnologia e não somente consumir me atraiu muito, já que atualmente não existe lugar em que a tecnologia não esteja"
+    
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "Reprograma - Conservas Literárias",
+      "periodo": "Jan/2017 a Dez/2018",
+      "atividades_desenvolvidas": "Criação do website da Conservas Libertárias junto a uma equipe de 4 desenvolvedoras. Utilizamos HTML, CSS, Bootstrap e JavaScript, com layout responsivo (adaptado ao celular) e com publicação .O objetivo do cliente era alavancar as vendas e trazer mais visibilidade para os seus produtos.",
+      "link": "https://www.conservaslibertarias.com.br/"
+    },
+    {
+      "cargo_funcao": "Business Analyst",
+      "empresa": "DXC Technology",
+      "periodo": "Ago/2016 a Out/2019",
+      "atividades_desenvolvidas": "Iniciei minha carreira na HP na área  financeira coordenando processos globais de notas de débito. Migrei para área de vendas, onde atuei junto com o time de pós-vendas no processo de aprovação de margens e custos, assim como atualização das propostas no SalesForce(CRM).Após a fusão da área de serviços entre HP e parceiros, continuei minha carreira na DXC Technology( empresa que prosseguiu após a fusão). Atuei junto com o time de projetos na implementação de uma nova conta , analisando os recursos necessários, requisitos e colaborando com o time de desenvolvimento na implementação e migração do novo sistema (Dynamics RP e CRM).",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Auxiliar em educação",
+      "empresa": "Prefeitura do Municipio de São Bernardo do Campo",
+      "periodo": "Jan/2011 a Jun/2013",
+      "atividades_desenvolvidas": "Tive a oportunidade de trabalhar auxiliando os professores nas atividades escolares e aplicação de orientações relacionadas ao cuidado e estimulação desejadas e necessárias para o desenvolvimento infantil.Também participava das reuniões pedagógicas, encontros e ciclos de estudos oferecidos pela prefeitura.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp front-end",
+      "instituicao": "reprograma",
+      "periodo": "mar-jul/2020",
+      "resumo_conhecimentos_aprendidos": "Bootcamp, focado na formação de mulheres front-end developers incluindo UX Design, HTML, CSS, JavaScript, Bootstrap, Jquery, React , Scrum, projetos  e orientação profissional."
+    },
+    {
+      "curso": "Gestão Financeira e Controladoria Empresarial",
+      "instituicao": "UNIESP",
+      "periodo": "2009-2012",
+      "resumo_conhecimentos_aprendidos": "Planejamento financeiro, organização, direção, captação de recursos e investimentos de uma empresa. "
+    },
+    {
+      "curso": "Inglês",
+      "instituicao": "Embassy CES at Lasell College, Boston, MA",
+      "periodo": "Fev/Mar-2007",
+      "resumo_conhecimentos_aprendidos": "Inglês Intermediário"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    
+    {
+      "interesse_evento_curso": "Meetup",
+      "instituicao": "Pyladies",
+      "resumo_conhecimentos_interesses": "Modulo I e II - Introdução ao Python"
+    },
+    {
+      "interesse_evento_curso": "Mulheres e Carreira de TI",
+      "instituicao": "WoMakersCode",
+      "resumo_conhecimentos_interesses": "Palestras sobre mulheres na tecnologia."
+    },
+    {
+      "interesse_evento_curso": "Voluntariado",
+      "instituicao": "Technovation",
+      "resumo_conhecimentos_interesses": "Evento voltado para meninas na TI realizado na HP. Colaborei como mentora auxiliando um grupo de meninas a desenvolver seu primeio aplicativo."
+    },
+    {
+      "interesse_evento_curso": "Voluntariado",
+      "instituicao": "Abc-Dev",
+      "resumo_conhecimentos_interesses": "O maior evento anual de tecnologia da região do grande ABC com trilhas de aprendizado e palestras para todas as carreiras . Colaborei por dois anos no cadastramento de participantes e apoio aos palestrantes."
+    },
+    {
+      "interesse_evento_curso": "Lean Six Sigma",
+      "instituicao": "Hewlett-Packard",
+      "resumo_conhecimentos_interesses": "Yellow -Belt "
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 5
+    },
+   
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 8
+    }
+  ]
+}
