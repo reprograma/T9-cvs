@@ -1,0 +1,146 @@
+{
+  "nome_completo": "Gabrielle Fernandes de Campos",
+  "o_que_eu_quero": "Empreendedora em transição de carreira para área de Desenvolvimento",
+  "cidade_estado:": "Mogi das Cruzes/SP",
+  "link_linkedin": "https://www.linkedin.com/in/gabriellefernandesc/",
+  "link_github": "https://github.com/gabifc",
+  "email": "gabriellefto@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou formada em Terapia Ocupacional, atuei 3 anos com atendimento clínico e também com inclusão escolar e fui em busca de novas experiências e desafios.",
+    "Mudei para Portugal e fui contratada pela Novabase SA como Analista de KYC realizando aberturas de contas no Banco CTT. A Novabase é uma grande empresa de Tecnologia e me abriu os olhos para esse mercado e o mundo das Startups. Voltei ao Brasil em 2018 e comecei a empreender digitalmente. Para desenvolver o negócio realizei diversos cursos em diferentes áreas como: marketing digital, customer Success, gestão financeira entre outros do seguimento turístico (área do meu empreendimento). Em 2019 minha startup foi uma das 30 selecionadas, entre 600, para incubação da Função Telefônica Vivo. Durante o desenvolvimento do negócio atuei em todas as áreas da empresa principalmente, desenvolvendo parcerias com projetos socioambientais no Brasil e na América do Sul. Foi um grande desafio que venci com muita análise de dados, de negócios, tentativas e erros que me proporcionou grande experiência no desenvolvimento de Negócios.",
+    "Conforme acima exposto, sou uma pessoa com grande curiosidade e interesse por diversas áreas. Neste momento me dedico aos estudos de desenvolvimento web e também tenho interesse pela área de AI - Machine Learning, uma vez que acredito ter uma trajetória profissional compatível, sendo Terapeuta Ocupacional - análise e desenvolvimento de atividades e ocupação humana e Business Strategy",
+    "Estou a disposição para novos desafios e possibilidades!"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Analista de KYC",
+      "empresa": "Novabase SA - alocada no Banco CTT SA",
+      "periodo": "Ago/2016 a Dez/2017",
+      "atividades_desenvolvidas": "Abertura e manutenção de contas do Banco CTT S.A. Inserção de dados junto as plataformas do banco (PACM, BankFusion Essence platform, DSX SQL, WinCap, Sharepoint e Fircosoft); análise e validação dos documentos apresentados para efeito de abertura de contas; mapas em Excel; tratamento de correspondências. Análise de procurações, atas e sociedades comerciais, submissão de documentos para legal e compliance.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Supervisora Técnica",
+      "empresa": "SPDM - Associação Paulista para o Desenvolvimento da Medicina",
+      "periodo": "Mar/2014 a Jun/2015",
+      "atividades_desenvolvidas": "Supervisora Técnica responsável pelo desenvolvimento de programas para estimulação da saúde e qualidade de vida e prestar orientações que favoreçam a inclusão escolar. Chefe imediata e responsável pela formação e conduta de cuidados de 62 Auxiliares de Vida Escolar das EMEIs e EMEFs de SP. Também era responsável pela formação dos Agentes Técnicos Escolares da prefeitura de SP, ministrando cursos sobre posicionamento, órteses, anatomia, patologias, sondas.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Terapia da Mão",
+      "instituicao": "Universidade de São Paulo",
+      "periodo": "Jan/2015 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Reabilitação da mão e do membro superior"
+    },
+    {
+      "curso": "Terapia Ocupacional",
+      "instituicao": "Centro Universitário São Camilo",
+      "periodo": "Ago/2009 a Jun/2013",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online de Javascript ES6 avançado",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+    },
+    {
+      "interesse_evento_curso": "Curso Starter",
+      "instituicao": "RocketSeat",
+      "resumo_conhecimentos_interesses": "Javascript, ReactJS, React Native e NodeJS"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODEJS",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "UX Strategy",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SQLite",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CANVAS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "ACESSIBILIDADE",
+      "pontuacao": 9
+    }
+  ]
+}
