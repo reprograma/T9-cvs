@@ -7,7 +7,7 @@
   "email": "hello@deboranis.com",
   "um_pouco_sobre_mim": [
     "Tenho 27 anos, nasci e cresci em São Paulo. Sou formada em Comunicação Social e fotografei profissionalmente por 4 anos, mas decidi mudar de carreira.",
-    "Busquei na área de tecnologia a sensação de evolução e aprendizado constante que sempre achei muito estimulantes, mas nunca consegui na minha profissão.",
+    "Busquei na área de tecnologia a sensação de evolução e aprendizado constante que sempre achei muito estimulante, mas nunca consegui na minha profissão.",
     "Tenho excelentes habilidades de comunicação: sou objetiva, não tenho medo de falar em público e sou fluente em inglês. Atualmente também estou estudando espanhol e alemão.",
     "No meu tempo livre, gosto de ler, fotografar projetos pessoais e sou coralista."
   ],
@@ -93,7 +93,7 @@
     },
     {
       "habilidade_ferramenta": "NODE",
-      "pontuacao": 1
+      "pontuacao": 4
     },
     {
       "habilidade_ferramenta": "GIT/GITHUB",
@@ -105,47 +105,27 @@
     },
     {
       "habilidade_ferramenta": "REACT",
-      "pontuacao": 7
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
-      "pontuacao": 5
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "RESPONSIVIDADE",
-      "pontuacao": 9
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "UX DESIGN",
       "pontuacao": 7
     },
     {
-      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
       "pontuacao": 6
     },
     {
-      "habilidade_ferramenta": "WORDPRESS",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "PHP",
-      "pontuacao": 3
-    },
-    {
-      "habilidade_ferramenta": "MySQL",
-      "pontuacao": 3
-    },
-    {
-      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "FTP",
-      "pontuacao": 5
-    },
-    {
       "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
-      "pontuacao": 8
+      "pontuacao": 5
     },
     {
       "habilidade_ferramenta": "PHOTOSHOP",
@@ -154,10 +134,6 @@
     {
       "habilidade_ferramenta": "LIGHTROOM",
       "pontuacao": 10
-    },
-    {
-      "habilidade_ferramenta": "INDESIGN",
-      "pontuacao": 4
     }
   ]
 }
