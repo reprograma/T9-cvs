@@ -1,0 +1,185 @@
+{
+  "nome_completo": "Nathalia Pereira da Silva",
+  "o_que_eu_quero": "Em busca de oportunidades na área de tecnologia em desenvolvimento front-end",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/nathalia89/",
+  "link_github": "https://github.com/ailthana89",
+  "email": "nathy.biblio@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou entusiasta da tecnologia, apaixonada pelo trabalho das comunidades de mulheres na área da tecnologia, inclusive sou fruto dela.
+
+    Me deparei com a tecnologia no final da minha graduação em Biblioteconomia e Ciência da informação, inicialmente conheci arquitetura de informação e UX, onde me abriu um leque de possibilidades e a oportunidade de conhecer outras áreas da tecnologia. Comecei acompanhar as comunidades em busca de entender sobre esse universo. Participei de eventos, meetups e bootcamps de front-end, back-end e UX.
+    
+    Gosto de trabalhar com pessoas e para pessoas, desafios e resolução de conflitos fazem parte da minha trajetória profissional. Trabalhei com gestão nas 6 bibliotecas das Fábricas de Cultura, gerenciadas pela organização social Poiesis. Produção cultural, gestão orçamentária, acompanhamento de metas e de resultados junto às equipes fizeram parte dessa experiência.
+    
+    Hoje pretendo devolver às comunidades todo incentivo e conhecimento, utilizando a tecnologia para fazer diferença na vida das pessoas.
+    "
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Desenvolvedora Front-end Freelancer",
+      "empresa": "Cozinha da Rê",
+      "periodo": "Maio/2020",
+      "atividades_desenvolvidas": "Site desenvolvido com uma equipe de 4 programadoras, Utilizamos HTML, CSS, Boostrap, Javascript, reformulamos o design do site em conjunto com a cliente. ",
+      "link": null
+    }
+    {
+      "cargo_funcao": "Analista artístico-pedagógico",
+      "empresa": "Poiesis - Instituto de Apoio à Língua, à Cultura, e à Literatura",
+      "periodo": "Abril/2015 – Março/2020",
+      "atividades_desenvolvidas": "Atuei na coordenação de 6 bibliotecas públicas que fazem parte do projeto Fábricas de Cultura, são centro culturais em regiões de vulnerabilidade social na cidade de São Paulo.  Assistir e apoiar a supervisão, elaboração relatórios, atender a demanda local das 6 bibliotecas das Fábricas de Cultura, controlar e acompanhar as metas atribuídas pela Secretaria de Cultura,repassar e instruir equipes sobre as metas trimestrais, responsável pelo acompanhamento e preenchimento dos sistemas Education1 e Sophia, avaliar propostas para programação cultural, contratação de artistas e coletivos para a programação cultural, contratos, produção da programação cultural, pagamentos, controle de orçamento anual de compra de livros e programação cultural, controle dos periódicos, responsável pelos processos de compra, responsável pelos processos administrativos, seleção de currículos,, reuniões com diretores, coordenadores e superintendentes, responsável pela divulgação das atividades das bibliotecas, responsável pela administração dos projetos de apoio e incentivo Rouanet entre outros.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Auxiliar de Biblioteca",
+      "empresa": "Poiesis - Instituto de Apoio à Língua, à Cultura, e à Literatura",
+      "periodo": "Junho/ 2014 – Abril/2015",
+      "atividades_desenvolvidas": "Atendimento ao público, elaboração de relatórios mensais, controle de estatístico,organização da biblioteca junto ao responsável local, produção e auxílio às atividades culturais e saídas pedagógicas e acompanhamento da equipe local.",
+      "link": null
+    }
+    {
+      "cargo_funcao": "Auxiliar de Leitura e Pesquisa",
+      "empresa": "Poiesis - Instituto de Apoio à Língua, à Cultura, e à Literatura",
+      "periodo": "Abril/2014 – Junho/2014",
+      "atividades_desenvolvidas": "Atendimento e orientação aos frequentadores da biblioteca, quanto à pesquisa no acervo e indicações de livros. Controlar o acervo dos livros, o uso adequado de computadores e o fluxo de usuários. Realizar atividades com os frequentadores e em parceria com os arte-educadores. Realizar a produção das atividades de ação cultural indicadas pela coordenação. Fotografar todos os eventos e atividades realizados na biblioteca.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Lógica de programação",
+      "instituicao": "Senai",
+      "periodo": "Setembro/2019 ",
+      "resumo_conhecimentos_aprendidos": "Estruturas lógicas e exercícios"
+    },
+    {
+      "curso": "Introdução a programação ",
+      "instituicao": "Minas Programam",
+      "periodo": "Agosto/2017 - Setembro/2017",
+      "resumo_conhecimentos_aprendidos": "HTML, CSS, Git, Github, UX, Ruby on Rails"
+    }
+    {
+      "curso": "UX - básico",
+      "instituicao": "IXDA",
+      "periodo": "Agosto/2016",
+      "resumo_conhecimentos_aprendidos": "Experiência do usuário, persona, pesquisa e wireframes",
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Palestras",
+      "instituicao": "UX para minas pretas",
+      "resumo_conhecimentos_interesses": ""
+    },
+    {
+      "interesse_evento_curso": "Evento",
+      "instituicao": "DjangoGirls",
+      "resumo_conhecimentos_interesses": "Palestras e introdução ao DjangoGirls"
+    }
+    {
+      "interesse_evento_curso": "Introdução Bootstrap",
+      "instituicao": "FreeCodeCamp ",
+      "resumo_conhecimentos_interesses": ""
+    }
+    {
+      "interesse_evento_curso": "Day #1 - 6 Trilhas Tech Simultâneas",
+      "instituicao": "Nerdzão Day",
+      "resumo_conhecimentos_interesses": "Palestra Angular, Sass e UX"
+    }
+    {
+      "interesse_evento_curso": "Evento",
+      "instituicao": "Rails Girls São Paulo",
+      "resumo_conhecimentos_interesses": "Palestras e introdução ao Ruby on Rails"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PESQUISA",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 7
+    }
+  ]
+}
