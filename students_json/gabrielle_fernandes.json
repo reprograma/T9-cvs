@@ -1,6 +1,6 @@
 {
   "nome_completo": "Gabrielle Fernandes de Campos",
-  "o_que_eu_quero": "Empreendedora em transição de carreira para área de Desenvolvimento",
+  "o_que_eu_quero": "Empreendedora em transição de carreira para área de TI disponível para novos desafios",
   "cidade_estado:": "Mogi das Cruzes/SP",
   "link_linkedin": "https://www.linkedin.com/in/gabriellefernandesc/",
   "link_github": "https://github.com/gabifc",
@@ -43,6 +43,12 @@
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
+      "curso": "Bootcamp Front-End",
+      "instituicao": "Reprograma",
+      "periodo": "Mar/2020 a Jul/2020",
+      "resumo_conhecimentos_aprendidos": "HTML, CSS, Js, jQuery, Bootstrap, React, Git, DOM, Scrum, UX"
+    },
+    {
       "interesse_evento_curso": "Curso online de Javascript ES6 avançado",
       "instituicao": "Digital Innovation One",
       "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
@@ -51,6 +57,11 @@
       "interesse_evento_curso": "Curso Starter",
       "instituicao": "RocketSeat",
       "resumo_conhecimentos_interesses": "Javascript, ReactJS, React Native e NodeJS"
+    },
+    {
+      "interesse_evento_curso": "Angular 9 Essencial",
+      "instituicao": "Cod3r",
+      "resumo_conhecimentos_interesses": "Os principais conceitos do Angular 9: Componentes, Diretivas, Pipes, Services."
     }
   ],
   "no_que_me_destaco": [
@@ -76,7 +87,7 @@
     },
     {
       "habilidade_ferramenta": "NODEJS",
-      "pontuacao": 3
+      "pontuacao": 5
     },
     {
       "habilidade_ferramenta": "GIT/GITHUB",
@@ -89,6 +100,10 @@
     {
       "habilidade_ferramenta": "REACT",
       "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "ANGULAR 9",
+      "pontuacao": 3
     },
     {
       "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
@@ -141,6 +156,14 @@
     {
       "habilidade_ferramenta": "ACESSIBILIDADE",
       "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ESPANHOL",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 5
     }
   ]
 }
