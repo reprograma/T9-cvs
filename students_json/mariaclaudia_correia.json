@@ -1,0 +1,119 @@
+{
+  "nome_completo": "Maria Claudia Correia",
+  "o_que_eu_quero": "Eu quero aprimorar meus conhecimentos em programação e trabalhar em uma empresa que me de a oportunidade de exercer, de aprender e me desenvolver na área.",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/mariaclaudiacorreia/",
+  "link_github": "https://github.com/MClaudia-Correia",
+  "email": "mariaclaudia.correia@yahoo.com.br",
+  "um_pouco_sobre_mim": [
+    "Eu tenho 30 anos, sou mãe e estou sempre em busca dos meus objetivos para oferecer o melhor para a miha filha.",
+    "Trabalhei há mais de 5 anos na área de atendimento ao público e essa trajetória me tornou uma pessoa mais comunicativa.",
+    "Curto assistir vídeo-aulas com conteúdos em Programação, ler sobre atualizações das ferramentas e linguagens, curto ler livros para minha filha, ficar assistindo desenhos com ela, curto assistir séries de variados gêneros, documentários e curto filmes de terror.",
+    "Estou começando uma nova jornada na minha vida profissional e escolhi a área de Tecnologia e acredito que esse novo ciclo será de muito aprendizado, de muitos desafios, de transformação e realização pessoal."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Recepcionista",
+      "empresa": "Live",
+      "periodo": "Dez/2016 a Mar/2018",
+      "atividades_desenvolvidas": "Atendimento ao cliente, agendamento de reuniões, recepção e envio de documentações.",
+      "link": "https://live.tt/pt/home/feeed/"
+    },
+    {
+      "cargo_funcao": "Auxiliar de Escritório",
+      "empresa": "Candua",
+      "periodo": "Ago/2013 a Jul/2015",
+      "atividades_desenvolvidas": "Administração de Apólices de Seguro Residencial, Empresarial e Automóvel."      
+    },
+{
+  "cargo_funcao": "Assistente Administrativo",
+  "empresa": "DPVAT Brasil",
+  "periodo": "Jun/2011 a Out/2012",
+  "atividades_desenvolvidas": "Atendimento ao público e análise de documentação." 
+}
+],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp Front-End",
+      "instituicao": "Reprograma",
+      "periodo": "Mar/2020  a Jul/2020",
+      "resumo_conhecimentos_aprendidos": "Introdução UX, Git/Github, HTML5, CSS, Javascript, Jquery, Bootstrap, React"
+    }   
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso Start - Computação Grafica",
+      "instituicao": "Escola Saga",
+      "resumo_conhecimentos_interesses": "Adobe Photoshop CC 2018 e Adobe Ilustrator CC 2018."
+    },
+    {
+      "interesse_evento_curso": "Mentoria-Roberta Arcoverde",
+      "instituicao": "StackOverFlow",
+      "resumo_conhecimentos_interesses": "Mulheres na àrea de Tecnologia."
+    },
+    {
+      "interesse_evento_curso": "Mentoria com as mulheres da área de Tecnologia e Rh.",
+      "instituicao": "Nubank",
+      "resumo_conhecimentos_interesses": "Um papo sobre vivência na área de tecnologia."
+    },
+    {
+      "interesse_evento_curso": "Mentoria de Pitch-Jessica Félix",
+      "instituicao": "Reprograma",
+      "resumo_conhecimentos_interesses": "Tipos de Pitchs de Apresentações."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 6
+    }
+  ]
+}
