@@ -1,0 +1,139 @@
+{
+  "nome_completo": "Débora Nisenbaum",
+  "o_que_eu_quero": "Trabalhar com desenvolvimento front-end e aprender novas tecnologias",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/deboranis/",
+  "link_github": "https://github.com/deboranis",
+  "email": "hello@deboranis.com",
+  "um_pouco_sobre_mim": [
+    "Tenho 27 anos, nasci e cresci em São Paulo. Sou formada em Comunicação Social e fotografei profissionalmente por 4 anos, mas decidi mudar de carreira.",
+    "Busquei na área de tecnologia a sensação de evolução e aprendizado constante que sempre achei muito estimulante, mas nunca consegui na minha profissão.",
+    "Tenho excelentes habilidades de comunicação: sou objetiva, não tenho medo de falar em público e sou fluente em inglês. Atualmente também estou estudando espanhol e alemão.",
+    "No meu tempo livre, gosto de ler, fotografar projetos pessoais e sou coralista."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Fotógrafa",
+      "empresa": "Autônoma",
+      "periodo": "Dez/2016 a Mar/2020",
+      "atividades_desenvolvidas": "Ensaios pessoais; registro de eventos; direção de modelos; casting; tratamento e pós produção de imagens.",
+      "link": "www.deboranis.com"
+    },
+    {
+      "cargo_funcao": "Assistente de fotografia",
+      "empresa": "Cape Content",
+      "periodo": "Abr/2016 a Nov/2016",
+      "atividades_desenvolvidas": "Assistência de fotografia e filmagens publicitárias; iluminação; produção de objetos e alimentos; relacionamento com clientes; organização e inventário de acervo; agendamento de pautas; edição de imagens; casting."
+    },
+    {
+      "cargo_funcao": "Assistente de Marketing",
+      "empresa": "Alizée",
+      "periodo": "Set/2015 a Jan/2016",
+      "atividades_desenvolvidas": "Criação de conteúdo para blog e mídias sociais; produção/fotografia de produtos para mídias sociais e e-commerce; elaboração de ações de marketing; manutenção do e-commerce; aquisição de mercadoria e relação com fornecedores; relacionamento com o cliente."
+    },
+    {
+      "cargo_funcao": "Assistente de vendas",
+      "empresa": "LUSH Brasil",
+      "periodo": "Out/2014 a Ago/2015",
+      "atividades_desenvolvidas": "Atendimento ao público; organização e manutenção do espaço de vendas; gerenciamento do estoque; controle de qualidade dos produtos. Tradução de conteúdo (inglês/português); treinamento de vendedores para comercializar novas linhas de produtos; apresentação de materiais e técnicas de vendas."
+    },
+    {
+      "cargo_funcao": "Tráfego de Criação / Redatora",
+      "empresa": "BRZ/Neogama BBH",
+      "periodo": "Dez/2013 a Jun/2014 - Estágio",
+      "atividades_desenvolvidas": " Organização e distribuição de jobs para as duplas de criação; coordenação de prazos; agendamento de reuniões; redação de peças publicitárias."
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Comunicação Social com Habilitação em Propaganda e Marketing",
+      "instituicao": "Escola Superior de Propaganda e Marketing",
+      "periodo": "Jun/2011 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos, estratégias de marketing, branding, pesquisas de mercado"
+    },
+    {
+      "curso": "Bootcamp Front-End",
+      "instituicao": "Reprograma",
+      "periodo": "Mar/2020 a Jul/2020",
+      "resumo_conhecimentos_aprendidos": "HTML, CSS, Js, jQuery, Bootstrap, React, Git, DOM, Scrum, UX"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Técnica fotográfica",
+      "instituicao": "Scuola Riguardare",
+      "resumo_conhecimentos_interesses": "Princípios e técnica fotográfica"
+    },
+    {
+      "interesse_evento_curso": "CS50",
+      "instituicao": "Harvard",
+      "resumo_conhecimentos_interesses": "Introdução à ciência de computação e programação"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "LIGHTROOM",
+      "pontuacao": 10
+    }
+  ]
+}
