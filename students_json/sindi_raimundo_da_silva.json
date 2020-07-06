@@ -1,0 +1,192 @@
+{
+  "nome_completo": "Sindi Raimundo da Silva",
+  "o_que_eu_quero": "Buscando oportunidade na área de desenvolvimento Front-end para agregar, disseminar o conhecimento e experiências para a tecnologia. Aberta à novos desafios e propostas, afim de me aperfeiçoar e desenvolver profissionalmente.",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/sindi-raimundo-da-silva/",
+  "link_github": "https://github.com/sindiraimundo",
+  "email": "sindiraimundo.s@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou uma pessoa de fácil relacionamento, que busca resoluções de conflitos saudáveis, para manter uma boa comunicação entre diferentes grupos de pessoas de forma construtiva.",
+    "Venho da área administrativa, com foco em resoluções analíticas, controle de organização de documentos confidenciais, demonstração e análise de resultados.",
+    "Decidi recomeçar minha trajetória na área de tecnologia após iniciar no Bootcamp de Front-end na Reprograma. Durante 4 anos realizei cursos voltados para a informática, mas não dei seguimento nessa área.",
+    "Espero desenvolver competências e aprimorar minhas habilidades, para contribuir com projetos que tragam impacto para os usuários e para a sociedade"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Desenvolvedora Front-end freelancer",
+      "empresa": "Josichocolight",
+      "periodo": "Mai/2020",
+      "atividades_desenvolvidas": "Criação do website Josichocolight , junto a uma equipe de 4 desenvolvedoras. Utilizamos HTML, CSS, Bootstrap e Jquery com layout responsivo e mobile, com publicação no servidor do cliente. O objetivo da cliente era ampliar a divulgação de seus produtos e manter a comunicação com seus clientes na realização de pedidos e orçamentos, feitos pelo site através de link com direcionamento para WhatsApp.",
+      "link": "https://www.josichocolight.com/"
+    },
+    {
+      "cargo_funcao": "Assistente Administrativo",
+      "empresa": "Carrefour Comércio e Industria Ltda",
+      "periodo": "Out/2016 a Abr/2020",
+      "atividades_desenvolvidas": "Emissão e entrada de notas, compras de insumos internos, de materiais e serviços de manutenção, análise e emissão de relatórios de Performance de resultados, controle de receita, despesas e orçamento.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Auxiliar de Escritório",
+      "empresa": "Telas Artel Ind e Com de Arames Ltda",
+      "periodo": "Out/2013 a Set/2014",
+      "atividades_desenvolvidas": "Emissão e entrada de notas e pedidos de vendas, consulta de protesto de clientes para aprovação de cadastro, arquivo de documentação interna, auxílio à folha de pagamento, baixa e envio de arquivos xml à contabilidade, atendimento ao cliente e controle de caixa.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Recepcionista",
+      "empresa": "ILI - Instituto de Língua Inglesa Ltda. (Wise Up – Unidade Paulista)",
+      "periodo": "Mar/2012 a Fev/2013",
+      "atividades_desenvolvidas": "Recepção e atendimento ao público, recebimento e baixa de mensalidades, emissão de nota paulista, controle de caixa, direcionamento de ligações ao setor comercial e demais setores.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvedora Front-end",
+      "instituicao": "{reprograma}",
+      "periodo": "Mar/2020 a Jul/2020",
+      "resumo_conhecimentos_aprendidos": "Bootcamp com fundamento na inserção de mulheres no mercado de TI, através de formação de novas desenvolvedoras, com conhecimento técnico em UX Designer, HTML, CSS, Git/Github, Javascript, Bootstrap, Lógica, Jquery, React, orientação profissional e desenvolvimento de habilidades interpessoais."
+    },
+    {
+      "curso": "Desenvolvimento web com HTML, CSS, Javascript",
+      "instituicao": "Caelum Ensino e Inovação",
+      "periodo": "Fev/2018",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento web com HTML, CSS, Javascript"
+    },
+    {
+      "curso": "Formação Especifica em ADM de Recursos Humanos",
+      "instituicao": "Universidade Nove de Julho",
+      "periodo": "Jan/2011 a Dez/2012",
+      "resumo_conhecimentos_aprendidos": "Fundamentos e processos dos subsistemas de Recursos Humanos como: recrutamento e seleção, treinamento de desenvolvimento, consultoria, folha de pagamento, direito do trabalho, qualidade e segurança do trabalho, comunicação interna."
+    },
+    {
+      "curso": "Técnico em Administração Empresarial",
+      "instituicao": "ETEC - Sapopemba (Telecursotec Módulo EAD)",
+      "periodo": "Ago/2010 a Dez/2011",
+      "resumo_conhecimentos_aprendidos": "Fundamentos e processos administrativos, controle de despesas e receitas, empreendedorismo, análise de mercado, organograma, tipos de hierarquias, subsistemas de RH, entre outras atividades."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online de React e Redux",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Utilização de biblioteca para otimização de performance, utilização e estruturação de componentes, state e event, formulários, listas e chaves, rotas, introdução ao Redux e cadastro via API."
+    },
+    {
+      "interesse_evento_curso": "Meetup React e React-native by Creditas 23/06/2020",
+      "instituicao": "Creditas",
+      "resumo_conhecimentos_interesses": " o eco-sistema react e react-native, desde uma introdução ao eco-sistema do React, até soluções elegantes como: Typescript + Styled-Components no react-native. Deploy servless de aplicações React (SPA + SSR). "
+    },
+    {
+      "interesse_evento_curso": "PrograMaria Encontros - Caminhos de Carreira Online 18/06/2020",
+      "instituicao": "PrograMaria",
+      "resumo_conhecimentos_interesses": " Como é trabalhar na tecnologia de empresas em transformação digital."
+    },
+    {
+      "interesse_evento_curso": "{reprograma} Meetup online 16/06/2020",
+      "instituicao": "{reprograma}",
+      "resumo_conhecimentos_interesses": " O arroz e feijão do JavaScript por baixo dos panos"
+    },
+    {
+      "interesse_evento_curso": "{reprograma} Meetup online 09/06/2020",
+      "instituicao": "{reprograma}",
+      "resumo_conhecimentos_interesses": "  Web para todos, acessibilidade na Web."
+    },
+    {
+      "interesse_evento_curso": "{reprograma} Meetup online 29/04/20",
+      "instituicao": "{reprograma}",
+      "resumo_conhecimentos_interesses": " A Importância das comunidades e iniciativas feitas por mulheres e destinadas a mulheres na redução do gap de gênero em TI, Mapeamento de iniciativas para mulheres - do MVP a Produção, O poder das redes sociais na comunidade, Elas Programam: sobre a criação e gestão de uma comunidade de mulheres na tecnologia"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 0
+    }
+  ]
+}
