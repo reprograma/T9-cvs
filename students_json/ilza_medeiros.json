@@ -1,0 +1,132 @@
+{
+    "nome_completo": "Ilza Medeiros",
+    "o_que_eu_quero": "Estou aberta a oportunidades na área de tecnologia e desenvolvimento, que possam trazer impacto para a sociedade e, através  da resolução de problemas, melhorar a vida das pessoas.",
+    "cidade_estado:": "Recife/PE",
+    "link_linkedin": "https://www.linkedin.com/in/ilza-medeiros/",
+    "link_github": "https://github.com/ilzinha",
+    "email": "ilzammed2@gmail.com",
+    "um_pouco_sobre_mim": [
+      "Iniciei minha vida profissional como enfermeira, onde trabalhei por 7 anos em unidades de terapia intensiva. Nesse período, pude desenvolver habilidades como trabalho sob pressão, criatividade, liderança e trabalho em equipe. Sempre conhecida como 'A enfermeira TI da UTI', comecei a buscar cursos da área de tecnologia e me encontrei. ",
+     "Comecei participando de eventos voltados para o incentivo de mulheres na tecnologia e fui apresentada ao mundo do front-end quando participei de um projeto do Women Who Code Recife (hoje atuo como professora e mentora da organização) e mais adiande intensifiquei meus conehcimentos ao participar do curso de front-end da {reprograma}.",
+     "Atuando como Desenvolvedora Front-End, tenho o objetivo de contribuir com construção de soluções e estou sempre aberta a novos aprendizados e desafios."
+    ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "Desenvolvedora Front-end Freelancer",
+        "empresa": "Conservas Libertárias",
+        "periodo": "Mai/2020",
+        "atividades_desenvolvidas": "Criação do website do Conservas Libertárias, junto a uma equipe de 4 desenvolvedoras. Utilizamos HTML, CSS e Bootstrap, com layout responsivo (adaptado ao celular) e com publicação no servidor do cliente. O objetivo do cliente era ressaltar seus produtos e a utilização em diversas receitas.",
+        "link": "https://www.conservaslibertarias.com.br/"
+      },
+      {
+        "cargo_funcao": "Enfermeira Intensivista",
+        "empresa": "Hospital Esperança",
+        "periodo": "Out/2013 a Ago/2019",
+        "atividades_desenvolvidas": "Atividades de rotina em UTI Geral, supervisão direta de equipe, trabalho sob pressão e resolição de conflitos.",
+        "link": ""
+      }
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "Bootcamp Front-End",
+        "instituicao": "Reprograma",
+        "periodo": "Mar/2020 a Ago/2020",
+        "resumo_conhecimentos_aprendidos": "Participei do curso da {reprograma} em 20 semanas, integral e intensivo para formação de desevolvedoras front-end. Adquiri conhecimentos e experiência em HTML, CSS, Javascript, Jquery, Bootstrap, responsividade, Github, React, acessibilidade e UX Design"
+      },
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Uninassau",
+        "periodo": "Out/2018 a Jun/2021",
+        "resumo_conhecimentos_aprendidos": "Curso tecnólogo em andamento"
+      },
+      {
+        "curso": "Enfermagem",
+        "instituicao": "Universidade de Pernambuco",
+        "periodo": "Ago/2008 a Dez/2012",
+        "resumo_conhecimentos_aprendidos": "Bacharelado em Enfermagem"
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Desenvolvedor Fullstack Python",
+        "instituicao": "Digital Innovation One",
+        "resumo_conhecimentos_interesses": "Desenvolvimento de habilidades técnicas para criar soluções para as stacks de desenvolvimento de uma aplicação: front-end com JavaScript e back-end com Python."
+      },
+      {
+        "interesse_evento_curso": "React, Redux e Integração de APIs",
+        "instituicao": "Udemy",
+        "resumo_conhecimentos_interesses": "Workshop para criação de sistemas simples com React e Redux."
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "SASS",
+        "pontuacao": 4
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "JQUERY",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "PYTHON",
+        "pontuacao": 3
+      },
+      {
+        "habilidade_ferramenta": "DJANGO",
+        "pontuacao": 3
+      },
+      {
+        "habilidade_ferramenta": "SQL",
+        "pontuacao": 3
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "BOOTSTRAP",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "REACT",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "RESPONSIVIDADE",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "UX DESIGN",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "FIGMA",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "INGLÊS",
+        "pontuacao": 8
+      }
+      
+    ]
+  }
