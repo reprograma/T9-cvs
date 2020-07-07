@@ -1,0 +1,172 @@
+{
+  "nome_completo": "Liana Alice Silveira Corrêa",
+  "o_que_eu_quero": "O meu primeiro trabalho na área de tecnologia, desenvolvimento FrontEnd, para aumentar ainda mais meus conhecimentos na área, ter estabilidade financeira e me desenvolver enquanto profissional",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/liana-alice/",
+  "link_github": "https://github.com/lianaalice",
+  "email": "lyannalisse@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Olá, me chamo liana alice e eu escolhi o meu próprio nome. Sou mulher, bissexual, transexual, vegetariana e estudo desenvolvimento de FrontEnd pela Reprograma. Um poço de peculiaridade em movimento.",
+    "Fiz uma graduação em marketing logo após sair da escola e me formei aos 19 anos, e, mesmo que a comunicação tenha se tornado uma grande realidade na minha vida, eu nunca trabalhei oficialmente com marketing para empresas. Com 22 anos comecei minha transição de gênero, durante essa época trabalhei como corretora de imóveis, recreacionista infantil, babá, cozinheira e vendedora de comidas veganas, como atendente em bar, etc.",
+    "Coisas que gosto e estudei bastante são: teatro, cinema, política, dança, cadeias musculares, massoterapia, literatura, educação e bioconstrução; já trabalhei um pouco em cada uma dessas áreas, mesmo que nem sempre recebendo um retorno financeiro por isso. A cultura, o desenvolvimento de ideias, e as funcionalidades do corpo são parte do meu interesse pessoais.",
+    "Gosto de aprender, gosto de transicionar pela vida, porém hoje, aos 28 anos busco usar dos meus conhecimentos para ter uma estabilidade financeira e profissional dentro do setor de tecnologia."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Projeto Voluntário - Desenvolvimento FrontEnd",
+      "empresa": "Reprograma - Gede Fem Consultoria",
+      "periodo": "Mai/2020",
+      "atividades_desenvolvidas": "Trabalho em grupo realizado dentro do bootcamp da {Reprograma} feito com clientes reais. Fiquei responsável pela criação da página Home de Gede Fem – empresa que trabalha com acessoria contábil para mulheres, também fui responsável por juntar os trabalhos de cada colega na plataforma do GitHub, fazer o link das páginas e realizar a apresentação do trabalho.",
+      "link": "https://gedefem.com/"
+    },
+    {
+      "cargo_funcao": "Escritora",
+      "empresa": "Autônoma",
+      "periodo": "2019 - atualidade",
+      "atividades_desenvolvidas": "Escrevi, trabalhei em lançamentos, venda e distribuição de meu primeiro livro chamado “diária de uma quimera”, que faz parte da coleção I Mulherio das Letras junto com outros 20 livros de escritoras brasileiras lançados pela editora Venas Abiertas – MG."  ,
+      "link": "https://colecaoummulherio.blogspot.com/2019/10/lyanna-alisse.html"
+    },
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "TransEnem Porto Alegre",
+      "periodo": "2016",
+      "atividades_desenvolvidas": "Participei no processo de criação, organização, estruturação e da prospecção de alunxs para o primeiro ano do curso preparatório para o Enem voltado para a população de pessoas transexuais e travestis da região de Porto Alegre.",
+      "link": "https://pt-br.facebook.com/transenempoa/"
+    },
+    {
+      "cargo_funcao": "Babá",
+      "empresa": "Autônoma",
+      "periodo": "2015 - 2017",
+      "atividades_desenvolvidas": "Trabalhei como freelancer cuidando de crianças de 0 à 13 anos, trabalho que exige atenção, comunicação, paciência e gestão de pequenas pessoas. Também passei por trabalhos de recreacionista infantil entre 2014 e 2015.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "BootCamp de desenvolvimento FrontEnd",
+      "instituicao": "{Reprograma}",
+      "periodo": "Mar/2020 a Jul/2020",
+      "resumo_conhecimentos_aprendidos": "Bootcamp intensivo de programação em FrontEnd com duração de 20 semanas que faz parte de um projeto social que visa a inclusão de mulheres no setor de tecnologia. "
+    },
+    {
+      "curso": "Técnica em Massoterapia",
+      "instituicao": "Bel'Art",
+      "periodo": "2018 a 2019",
+      "resumo_conhecimentos_aprendidos": "Curso e estágio de massoterapia. Aprendi sobre anatomia e massagem terapêutica, relaxante e estética. Conheci melhor o caminho da tensão e das dores das pessoas e como posso fazer para aliviar alguns deles, ou encaminhar para médicos os casos que não se resolverão com a terapia de massagem."
+    },
+    {
+      "curso": "Formação de Atores",
+      "instituicao": "Escola Popular de Teatro da Terreira da Tribo",
+      "periodo": "Jun/2014 a Jan/2016",
+      "resumo_conhecimentos_aprendidos": "Formação de atriz com cadeiras sobre expressão corporal, história do pensamento político, história do teatro mundial e brasileiro, atuação, e aulas de expressão vocal."
+    },
+    {
+      "curso": "Técnologa em Gestão de Marketing",
+      "instituicao": "FTEC - Faculdade de Tecnologia",
+      "periodo": "2009 a Jun/2011",
+      "resumo_conhecimentos_aprendidos": "Aprendi sobre gestão e criação de projetos, os 4 P’s do marketing e como moldar sua estratégia de negócio apartir deles. Também adquiri conhecimentos sobre branding, logística, ética e gestão de pessoas."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Inglês Intermediário",
+      "instituicao": null,
+      "resumo_conhecimentos_interesses": "Entendimento intermediário para ler, escrever, falar e compreender a língua inglesa."
+    },
+    {
+      "interesse_evento_curso": "Responsive Web Design Certification -- course in process -- 2020",
+      "instituicao": "Free Code Camp",
+      "resumo_conhecimentos_interesses": "Curso de 300 horas que certifica capacidade de criar um web design responsivo"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 0
+    }
+  ]
+}
