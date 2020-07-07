@@ -1,0 +1,192 @@
+{
+  "nome_completo": "Natália Luiza da Silva",
+  "o_que_eu_quero": "Atuar como Desenvolvedora Front-end, aprimorar meus conhecimentos em JavaScript e React, e aprender novas tecnologias.",
+  "cidade_estado:": "Vila Jacuí, São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/natalialuizads/",
+  "link_github": "https://github.com/natalialuizas",
+  "email": "natalialuizads@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Meu nome é Natália Luiza, tenho 25 anos e atualmente moro em São Paulo, nasci e fui criada no interior do estado, mudei-me para capital após ser selecionada no bootcamp da  { Reprograma }. Formada em Desenvolvimento de sistemas pela ETEC de Olímpia, estagiei como suporte técnico durante todo o curso, cuidando diretamente do atendimento aos clientes, reportando bugs e fazendo testes de softwares.\n Durante o estágio aprendi a lidar com diversas situações, tais como trabalhar em equipe e melhorar a experiência do usuário. Foi quando me vi apaixonada pela área e fiz parte do bootcamp da reprograma, onde pude me aprofundar em algumas linguagens e aprender novas bibliotecas."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Desenvolvedora Front-end Freelancer - Voluntário",
+      "empresa": "Inveção Z - ONG Coohabras",
+      "periodo": "junho/2020 a julho/2020",
+      "atividades_desenvolvidas": "Criação do website da ONG COOHABRAS feito por duas desenvolvedoras. Utilizamos HTML, CSS, JQuery, JavaScript, com layout responsivo (adaptado ao celular) e com publicação no servidor do cliente. O objetivo do cliente era melhorar o layout e dividir por seção cada parte do seu site, deixando-o mais limpo.",
+      "link": "https://www.coohabras.netlify.app/"
+    },
+    {
+      "cargo_funcao": "Desenvolvedora Front-end Freelancer - Voluntário",
+      "empresa": "Reprograma - Cozinha da Rê",
+      "periodo": "Junho/2020",
+      "atividades_desenvolvidas": "Projeto feito na Reprograma com clientes reais, feito em grupo e entregue em uma semana. Tecnologias utilizadas:Figma, Git, Github, HTML, CSS, Javascript, Bootstrap, Jquery.",
+      "link": "https://www.cozinhadare.com.br/"
+    },
+    {
+      "cargo_funcao": "Suporte Técnico",
+      "empresa": "Olimtec Sistemas",
+      "periodo": "Ago/2018 a Jan/2020",
+      "atividades_desenvolvidas": "Suporte do sistema RT-Package, reportando bugs, executando testes e realizando atendimento aos clientes.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Monitora",
+      "empresa": "CAM Segurança",
+      "periodo": "Abril/2017 a Maio/2018",
+      "atividades_desenvolvidas": "Atendimento ao cliente, monitoramento de acesso, fiscalização de pessoas com atos suspeitos de furtos e roubos e demais delitos, registro de situações, indentificando falsos alarmes, acompanhamento e registros de ocorências, monitoramento de CFTV.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Repositora",
+      "empresa": "Supermercado Iquegami",
+      "periodo": "Junho/2014 a Jan/2016",
+      "atividades_desenvolvidas": "Responsável pelo abastecimento, organização, limpeza e controle de estoque da seção de perfumaria.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Jovem Aprendiz",
+      "empresa": "Tereos Açúcar e Energia Brasil - Unidade Cruz Alta",
+      "periodo": "maio/2013 a Dez/2013",
+      "atividades_desenvolvidas": "Experiência teórica e prática do curso de qualificação em eletromecânica. Desenvolvimento pessoal e capacitação para mercado de trabalho.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp de Front-End",
+      "instituicao": "Reprograma",
+      "periodo": "Março/2020 a Julho/2020",
+      "resumo_conhecimentos_aprendidos": "Programação front end com conteúdo de UX Design, Git e Github, Scrum, Lógica de Programação, HTML, CSS, Javascript e bibliotecas e frameworks como React e Bootstrap."
+    },
+    {
+      "curso": "Técnico em Desenvolvimento de Sistemas",
+      "instituicao": "Etec de Olímpia",
+      "periodo": "julho/2018 a Dez/2019",
+      "resumo_conhecimentos_aprendidos": "Obtive conhecimentos sobre banco de dados, redes, HTML, CSS, JavaScript, Arduíno, C# , PHP , Android studio, Lógica de Programação, testes e qualidade de software. "
+    },
+    {
+      "curso": "Técnico em Eletromêcanica",
+      "instituicao": "Projeto Pescar",
+      "periodo": "maio/2013 a Dez/2013",
+      "resumo_conhecimentos_aprendidos": "Obtive conhecimentos sobre a montagem, manutenção e criação de máquinas e equipamentos eletromecânicos, eletropneumática e eletrohidráulica."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso JavaScript Ninja",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Lógica de programação, sintaxe, programação funcional, APIs, testes, design pattern, manipulação do DOM"
+    },
+    {
+      "interesse_evento_curso": "Curso Git e Github para iniciantes",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Como configurar o git, comandos básicos, trabalhar com branches e repositórios remotos no github"
+    },
+    {
+      "interesse_evento_curso": "Curso Git e Github na vida real",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Comandos mais avançados do git, histórico de logs, conflitos no git, workflows comuns em empresas, flows no github (Pull Request, Issues, Templates, Code Review)"
+    },
+    {
+      "interesse_evento_curso": "Curso C# primeiros passos: Lógica de Programação e Algoritmos",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "fundamentos básicos de programação: estrutura sequencial, estrutura condicional, estruturas repetitivas, vetores e matrizes"
+    }
+
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "C#",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "SQL",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "Android studio",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "Arduíno",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "SQL SERVER",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "Vue.js",
+      "pontuacao": 4
+    }
+  ]
+}
