@@ -1,0 +1,173 @@
+{
+  "nome_completo": " {Talisia Márcia de Lima Muniz}",
+  "o_que_eu_quero": "Quero oportunidade como desenvolvedora front-end,onde possa aprender e aprimorar minhas habilidades",
+  "cidade_estado:": "Poá/SP",
+  "link_linkedin": "https://www.linkedin.com/in/talisialima/",
+  "link_github": "https://github.com/Talisia-muniz",
+  "email": "aisilatdev@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Para mim aprender nunca foi demais, sempre gostei de estudar e sempre fui amante de matemática.",
+    "Trabalhei muitos anos com a satisfação do cliente em diferentes àreas, minha transição de carreira veio de encontro",
+    " a vontade de mudança pessoal e profissional.",
+    " Conheci a {reprograma} e me reencontrei em meio aos códigos mantendo habilidades de trabalhar em equipe, de resolver problemas e atuar sobre pressão. Espero alcançar novas oportunidades e aprimorar minhas competências e contribuir para novos projetos ."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Desenvolvedora Front-end freelancer",
+      "empresa": "OYA Produções Artísticas",
+      "período": "Maio/2020",
+      "atividades_desenvolvidas": " Projeto com clientes reais realizado em grupo, usando bootstrap,css e javascript, e com publicação no servidor do cliente.",
+      "Link": "https://oyaproducoesartisticas.com.br/ "
+    },
+
+    {
+      "cargo_funcao": "{Cabeleireira}",
+      "empresa": "Autonoma",
+      "periodo": "Jan/2015 a jul/2019",
+      "atividades_desenvolvidas": "Atendimento ao cliente com finalidade de melhorar seu estilo, avaliando a caracteristica facial para determinar o melhor tipo de corte e ou tratamento."
+    },
+    {
+      "cargo_funcao": "{Negociador de cobranças trainee}",
+      "empresa": "RR serviços de cobranças Ltda",
+      "periodo": "Jul/2014 a Out/2014",
+      "atividades_desenvolvidas": "Realizava cobrança de pessoas físicas e jurídicas,e atualizava os cadastros."
+    },
+    {
+      "cargo_funcao": "{Gerente de Plantão}",
+      "empresa": "Mc Donalds",
+      "periodo": "Nov/1993 a Dez/2011",
+      "atividades_desenvolvidas": "Iniciei na empresa como atendente, adquirindo experiências em atendimento ao cliente.Passei por promoções, onde desenvolvi habilidades com trabalho em equipe, com financeiro e giro de estoques."
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "{Desenvolvedora front -end}",
+      "instituicao": "Reprograma",
+      "periodo": "Mar/2020 a jul/2020",
+      "resumo_conhecimentos_aprendidos": "Durante o período do curso, desenvolvi desde protótipo de lista de tarefas até sites para clientes reais. Cada desafio me incentivava a me tornar uma profissional melhor, obtive não apenas conhecimento profissional, mas muito desenvolvimento pessoal. Os conteúdos abordados no período do curso, foram Scrum, Html,Css,Git,Git Hub, Lógica de programação,JavaScript, React, Jquery, Bootstrap e UX Design"
+    },
+    {
+      "curso": "{Desenvolvedora back -end}",
+      "instituicao": "Digital Innovation One",
+      "periodo": "Mai/2020 a jul/2020",
+      "resumo_conhecimentos_aprendidos": "Aprendi as tecnologias usadas no Carrefour,e busca de preparo para trabalhar em uma empresa global! Esse treinamento foi desenvolvido para conhecer quais tecnologias são usadas no Carrefour,"
+    },
+    {
+      "curso": "{Gestão de Recursos Humanos}",
+      "instituicao": "Unisa",
+      "periodo": "Marc/2010 a Nov/2011 - trancado"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso ES6",
+      "instituicao": " Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+    },
+    {
+      "interesse_evento_curso": "{Inglês}",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Do básico ao avançado, cursando"
+    },
+    {
+      "interesse_evento_curso": " Introdução ao Github e comandos essenciais para trabalhar em equipe}",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Conhecimento da ferramenta como controle de versão de arquivos, comandos principais para trabalho em equipe."
+    },
+    {
+      "interesse_evento_curso": "Criando aplicações web com Spring Web MVC",
+      "instituicao": " Digital Innovation One",
+      "resumo_conhecimentos_interesses": "framework conhecido e utilizado em Java que reúne várias funções em apenas uma ferramenta"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "Fundamentos de Arquitetura de Sistema",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "INTRODUÇÃO AO FRAMEWORK SPRING BOT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Práticas com bancos de dados",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 9
+    }
+  ]
+}
