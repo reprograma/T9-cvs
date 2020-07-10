@@ -1,0 +1,178 @@
+{
+  "nome_completo": "Patricia Grandini Borges",
+  "o_que_eu_quero": "Oportunidade de atuar como Desenvolvedora front-end",
+  "cidade_estado:": "Saúde, São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/patriciagborges/",
+  "link_github": "https://github.com/patriciagborges",
+  "email": "patriciagborges01@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Profissional com mais de 6 anos de experiência em Mídia em transição de carreira para front-end.",
+    "Durante esse período, trabalhei em agências e empresas sempre em busca dos melhores resultados com mídia online. Nos dois últimos anos, trabalhei em alguns projetos voltados a tecnologia o que me levou a busca de conhecimento sobre programação.",
+    "Em Março de 2020 fui selecionada para a turma de front-end da reprograma. Durante o período de 4 meses do bootcamp a imersão englobou as seguintes tecnoliogias: HTML, CSS, JavaScript, React, Bootstrap, jQuery e versionamento em Git/Github.",
+    "Estou em busca de uma oportunidade de para trabalhar como front-end aplicando meus conhecimentos adquiridos durante o bootcamp e oportunidades que trabalhem com outras tecnologias."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Desenvolvedora Front-end (freelancer)",
+      "empresa": "Bioafetiva",
+      "periodo": "Jun/2020 a Jun/2020",
+      "atividades_desenvolvidas": "Criação da página web para a Bioafetiva durante o bootcamp da {reprograma}. O projeto foi desenvolvido por 5 desenvolvedoras, utilizando as seguintes stack: Javascript, CSS, HTML e Bootstrap",
+      "link": "https://www.bioafetiva.com.br/"
+    },
+    {
+      "cargo_funcao": "Mídia Online",
+      "empresa": "Matchbox Brasil",
+      "periodo": "Jun/2019 a Jan/2020",
+      "atividades_desenvolvidas": "Criação e gestão de campanhas para mercado de recrutamento e seleção, análise de KPI das campanhas, controle e realocação de budget, apresentação de resultados aos clientes, negociação com sites parceiros, gestão de conteúdo e reformulação dos sites: mytrainee.com.br e ligadonafacul.com.br",
+      "link": "https://matchboxbrasil.com/"
+    },
+    {
+      "cargo_funcao": "Coordenadora de Mídia Online ",
+      "empresa": "Agência Giro 360",
+      "periodo": "Mai/2018 a Jun/2019",
+      "atividades_desenvolvidas": "Criação e gestão de campanhas com foco no mercado imobiliário, análise de KPI das campanhas, gestão de relatórios e acompanhamento de resultados, upload de campanhas Adwords (Search, Display), emissão de pedido de material e controle de envio de materiais e veiculação, controle financeiro de mídia, emissão de PI, implementação de metodologias ágeis(scrum), interação com a equipe de desenvolvimento e criação, investigando problemas de usuabilidade e propondo melhorias nos sites desenvolvidos pela agência.", 
+      "link": "http://www.agenciagiropublicidade.com.br/"
+    },
+    {
+      "cargo_funcao": "Analista de Mídia Online ",
+      "empresa": "DocSync",
+      "periodo": "Abr/2017 a Mai/2018",
+      "atividades_desenvolvidas": "Upload de campanhas Adwords (Search, Display e Youtube), emissão de pedido de material e controle de envio de materiais e veiculação, controle financeiro de mídia, emissão de PI no sistema Publi, tagueamento de links.",
+      "link": "https://www.docsync.com.br/"
+    },
+    {
+      "cargo_funcao": "Assistente Business Intelligence",
+      "empresa": "Garage Marketing Interactive",
+      "periodo": "Jun/2015 a Mar/2016",
+      "atividades_desenvolvidas": "Compra de mídia, análise e suporte Adwords, Facebook, SAC 2.0 e engajamento de campanha, relatórios de campanhas para todos os clientes.", 
+      "link": "http://www.garageim.com.br/new/"
+    }
+
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp Front-End",
+      "instituicao": "Reprograma",
+      "periodo": "Mar/2020 a Jul/2020",
+      "resumo_conhecimentos_aprendidos": "Participei do curso da {reprograma} em 20 semanas, integral e intensivo para formação de desevolvedoras front-end. Adquiri conhecimentos e experiência em HTML, CSS, Javascript, Jquery, Bootstrap, responsividade, Github, React, acessibilidade e UX Design."
+    },
+    {
+      "curso": "Publicidade e Propaganda",
+      "instituicao": "Universidade Metodista de São Paulo - UMESP",
+      "periodo": "Jan/2009 a Jan/2013 - trancado",
+      "resumo_conhecimentos_aprendidos": "Bacharelado em Publicidade e Propaganda"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Bootcamp UX Design",
+      "instituicao": "How Bootcamps",
+      "resumo_conhecimentos_interesses": "curso focado nos fundamentos e jornada do usuário voltado a produtos digitais."
+    },
+    {
+      "interesse_evento_curso": "Product Mastercass",
+      "instituicao": "Bossabox",
+      "resumo_conhecimentos_interesses": "Um programa imersivo que tratará Produto com uma visão holística, abordando todos os vértices desse universo: desde Agile, frameworks e UX até tendências em tecnologia, dados e transformação digital."
+    },
+    {
+      "interesse_evento_curso": "Formação em HTML5 e CSS3",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Trilha de formação em HTML e CSS e principios Javascript."
+    },
+    {
+      "interesse_evento_curso": "Javascript",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Manipulação de elemento e projetos práticos."
+    },
+    {
+      "interesse_evento_curso": "Design Thinking",
+      "instituicao": "Laureate International Universities",
+      "resumo_conhecimentos_interesses": "Fundamentos do design thinking e como aplica-los em projetos."
+    },
+    {
+      "interesse_evento_curso": "Facebook Marketing",
+      "instituicao": "Mirago Marketing Digital",
+      "resumo_conhecimentos_interesses": "Manipulamento da ferrramenta, ROI, estruturamento e análise de campanhas."
+    },
+    {
+      "interesse_evento_curso": "Gestão Ágil com Scrum",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Fundamentos do Scrum voltado a certificação SFC."
+    },
+    {
+      "interesse_evento_curso": "Certificações Google Adwords",
+      "instituicao": "Google",
+      "resumo_conhecimentos_interesses": "Certificações dos seguintes cursos: Fundamentos do Adwords, Publicidade Shopping, Publicidade Mobile, Publicidade Video e Publicidade Display, todas as certificações fazem parte do google partners, programa de certificação do Google para profissionais e agências que desenvolvem trabalhos de gerenciamento de campanhas através da plataforma do Google Adwords "
+    }
+    ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "MARKETING DIGITAL",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "EXCEL",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SEO",
+      "pontuacao": 9
+    }
+  ]
+}
