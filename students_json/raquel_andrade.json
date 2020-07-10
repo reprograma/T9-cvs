@@ -1,0 +1,154 @@
+{
+  "nome_completo": "Raquel Andrade",
+  "o_que_eu_quero": "Busco uma oportunidade como Desenvolvedora Front-end, tendo como objetivo aprimorar minhas habilidades em uma empresa que valorize um clima organizacional dinâmico e estimulador.",
+  "cidade_estado:": "Butantã | São Paulo | SP",
+  "link_linkedin": "https://www.linkedin.com/in/raquelbennington",
+  "link_github": "https://github.com/RaquelBennington",
+  "email": "raquelbennington@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou uma profissional Desenvolvedora Front-end formada pela Reprograma, me sinto preparada para encarar novos desafios na área da tecnologia e solucionar problemas. Tenho grande facilidade em entender o <strong>ambiente de negócio</strong>, habilidade adquirida ao longo da minha carreira profissional. Entusiasmada como sou e atraída pelo potencial da área, vejo na tecnologia a possibilidade de aprimorar minhas <strong>habilidades e competências</strong>."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Desenvolvedora Front-end Freelancer ",
+      "empresa": "Conservas Libertarias Jun/2020",
+      "periodo": "Dez/2018 a Fev/2020",
+      "atividades_desenvolvidas": "Projeto com cliente real desenvolvido em grupo na Reprograma. Aplicamos metodologia Scrum e desenvolvemos o site utilizando HTML5, CSS3, Bootstrap e Figma",
+      "link": "https://conservascoders.netlify.app/" 
+    },
+    {
+      "cargo_funcao": "Analista de atendimento",
+      "empresa": "Indra",
+      "periodo": "Dez/2018 a Fev/2020",
+      "atividades_desenvolvidas": "Atendimento ao cliente via telefone e acesso remoto. Responsável por gerir a melhor experiência do cliente na plataforma da maior Foodtech de delivery de comida da América Latina(IFood).",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Coffee Specialist - Sênior",
+      "empresa": "Nestlé Nespresso SA",
+      "periodo": "Maio/2013 a Set/2017",
+      "atividades_desenvolvidas": "Atuação na área comercial, atendimento ao cliente, abertura e fechamento do caixa, organização da boutique e apoio à gerência no desenvolvimento de novos colaboradores através de treinamentos para toda a equipe.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Coffee Expert - Treinamento",
+      "empresa": "Nestlé Nespresso SA",
+      "periodo": "Set/2015 a Jul/2016",
+      "atividades_desenvolvidas": "Vivência em uma missão na área de Coffee Affairs no Nespresso Expertise Center, onde ministrei todos os cursos da grade de treinamentos para B2B e B2C, auxiliando a área de Coffee Affairs na interface com os Coffee experts e na consolidação dos resultados das ações em Boutiques.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Analista de mídias sociais",
+      "empresa": "Dolce Morumbi",
+      "periodo": "Abril/2009 a Jul/2012",
+      "atividades_desenvolvidas": "Gerenciamento de conteúdo, produção e criação de campanhas em mídias sociais. Criação, desenvolvimento e otimização do site, com noções básicas de SEO na plataforma Wordpress.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Diagramação e editoração",
+      "empresa": "Planos Engenharia Ltda",
+      "periodo": "Março/2008 a Dez/2009",
+      "atividades_desenvolvidas": "Responsável pela diagramação e editoração de textos. Finalização de propostas técnicas (Pacote Office, Photoshop, InDesign, Corel Draw, Adobe PDF e softwares específicos para engenharia)",
+      "link": null
+    },
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Front-end",
+      "instituicao": "Reprograma",
+      "periodo": "Março/2020 a Jul/2020",
+      "resumo_conhecimentos_aprendidos": "O Bootcamp tem como ênfase programação Front-end, com aprendizados em <strong>UX/UI Design, HTML5, CSS3, Git/Github, Bootstrap, Lógica de programação, JavaScript, JQuery, ReactJS e Scrum</strong>.",
+      "link":"https://raquelandrade.netlify.app/"
+    },
+    {
+      "curso": "Superior de Tecnologia em Marketing",
+      "instituicao": "Universidade Anhembi Morumbi",
+      "periodo": "Jan/2013 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Destaca-se como aprendizado: Plano estratégico, Pesquisas de mercado, Plano de marketing, Desenvolvimento de produtos e serviços e elaboração de campanhas comerciais."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Product Design",
+      "instituicao": "Mergo (Jul/2020)",
+      "resumo_conhecimentos_interesses": "Product Led Growth, Princípios de design de desenvolvimento de produto, Processo de design aplicados à produto, Jornada do usuário trial e freemium, Prototipação e Métricas de produto."
+    },
+    {
+      "interesse_evento_curso": "Desenvolvimento de Aplicativos Android Studio - Kotlin",
+      "instituicao": "MadCode Escola de Programação (Jan/2020)",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+    },
+    {
+      "interesse_evento_curso": "Fundamentos do Scrum",
+      "instituicao": "Facebook (Nov/2018)",
+      "resumo_conhecimentos_interesses": "Gestão e Desenvolvimento Ágil de Projetos"
+    },
+    {
+      "interesse_evento_curso": "Redes Sociais e Inovação Digital",
+      "instituicao": "ESPM Escola Superior de Propaganda e Marketing (Fev/2011)",
+      "resumo_conhecimentos_interesses": "Planejamento, Implementação, Mensurar e propagar ações inovadoras em redes sociais"
+    },
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Kotlin",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "Product Design",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Inglês",
+      "pontuacao": 6
+    },
+  ]
+}
