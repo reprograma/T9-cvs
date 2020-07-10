@@ -6,9 +6,9 @@
   "link_github": "https://github.com/adelasimone",
   "email": "adelasimoneac@gmail.com",
   "um_pouco_sobre_mim": [
-    "Durante e após terminar ensino médio passei por experiências em cursos e trabalhos em equipe em diversas áreas que ",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
+    "Durante e após terminar ensino médio passei fiz em cursos e trabalhos em equipe em diversas áreas que me trouxeram ótimas experiências",
+    "",
+    "Adoro aprender e conhecer coisas novas",
     "Fique a vontade, mas busque ser objetiva"
   ],
   "no_que_ja_trabalhei": [
@@ -16,15 +16,14 @@
       "cargo_funcao": "Atendimento de clientes",
       "empresa": "Ateliê Andaluz",
       "periodo": "Jan/2015 a Dez/2019",
-      "atividades_desenvolvidas": "",
+      "atividades_desenvolvidas": "Atuei com atendimento dos clientes na loja dos meus pais, nesse tempo vendemos roupas, recebemos roupas para reparos e diversos outros serviços na área de costura.",
       "link": null
     },
     {
       "cargo_funcao": "Projeto Voluntário",
       "empresa": "Reprograma - Cliente Gedefem",
       "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Desenvolvimento em equipe do websiteb para a Gedê fem, desenvolvemos em HTML, CSS e Bootstrap 
-      uma empresa de acessoria contábil e administrativa fundada por duas mulheres que tem como objetivo ",
+      "atividades_desenvolvidas": "Desenvolvimento em equipe do websiteb para a Gedê fem, desenvolvemos em HTML, CSS e Bootstrap uma empresa de acessoria contábil e administrativa fundada por duas mulheres que tem como objetivo.",
       "link": "https://gedefem.com/"
     }
   ],
@@ -33,14 +32,13 @@
       "curso": "Bootcamp front-end",
       "instituicao": "{reprograma}",
       "periodo": "Mar/2020 a Jul/2020",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "resumo_conhecimentos_aprendidos": "Projeto que tem como objetivo inserir mulheres no mercado da tecnologia através do bootcamp onde aprendemos as liguagens como HTML, CSS, JavaScript, React"
     },
     {
       "curso": "Gestão Empresarial com Software ERP Protheus",
       "instituicao": "IOS - Instituto da Oportunidade Social",
       "periodo": "Fev/2015 a Jun/2015",
-      "resumo_conhecimentos_aprendidos": "Teoria e prática dos Processos Administrativos.
-      Funcionalidades que envolvem o sistema ERP Protheus."
+      "resumo_conhecimentos_aprendidos": "Teoria e prática dos Processos Administrativos.Funcionalidades que envolvem o sistema ERP Protheus."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
