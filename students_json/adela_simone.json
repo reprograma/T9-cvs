@@ -1,0 +1,148 @@
+{
+  "nome_completo": "Adela Simone Apaza Condori",
+  "o_que_eu_quero": "Busco oportunidades na área do desenvolvimento front-end, para me aperfeiçoar e crescer na área.",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/adela-simone/",
+  "link_github": "https://github.com/adelasimone",
+  "email": "adelasimoneac@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Durante e após terminar ensino médio passei por experiências em cursos e trabalhos em equipe em diversas áreas que ",
+    "Aqui é outro parágrafo falando sobre sua trajetória",
+    "Nesse aqui você pode dizer o que você curte fazer",
+    "Fique a vontade, mas busque ser objetiva"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Atendimento de clientes",
+      "empresa": "Ateliê Andaluz",
+      "periodo": "Jan/2015 a Dez/2019",
+      "atividades_desenvolvidas": "",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "Reprograma - Cliente Gedefem",
+      "periodo": "Jan/2017 a Dez/2018",
+      "atividades_desenvolvidas": "Desenvolvimento em equipe do websiteb para a Gedê fem, desenvolvemos em HTML, CSS e Bootstrap 
+      uma empresa de acessoria contábil e administrativa fundada por duas mulheres que tem como objetivo ",
+      "link": "https://gedefem.com/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp front-end",
+      "instituicao": "{reprograma}",
+      "periodo": "Mar/2020 a Jul/2020",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+    },
+    {
+      "curso": "Gestão Empresarial com Software ERP Protheus",
+      "instituicao": "IOS - Instituto da Oportunidade Social",
+      "periodo": "Fev/2015 a Jun/2015",
+      "resumo_conhecimentos_aprendidos": "Teoria e prática dos Processos Administrativos.
+      Funcionalidades que envolvem o sistema ERP Protheus."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Artes Visuais",
+      "instituicao": "Projeto Neemias",
+      "resumo_conhecimentos_interesses": "Desenvolvemos a criação, desenvolvimento e implementação de projetos em decoração, para futuramente empreender aprendemos o gerenciamento financeiro também."
+    },
+    {
+      "interesse_evento_curso": "Editor de Projeto Visual Gráfico",
+      "instituicao": "Projeto Neemias",
+      "resumo_conhecimentos_interesses": "Conhecimento da ferramenta Photoshop e prática, aprofundamos a prática na ferramenta Illustrator também, desenvolvendo artes vetorizadas."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "EXCEL",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "WORD",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "MARKETING DIGITAL",
+      "pontuacao": 0
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "ESPANHOL",
+      "pontuacao": 8
+    }
+  ]
+}
