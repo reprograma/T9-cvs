@@ -1,0 +1,151 @@
+{
+    "nome_completo": "Vanessa Gomes de Araújo Mello",
+    "o_que_eu_quero": "Busco oportunidade para atuar como desenvolvedora Front-End, na expectativa de me aprimorar na área, aprender novas tecnologias e desenvolver meus conhecimentos em programação.",
+    "cidade_estado:": "São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/vanessamello5/",
+    "link_github": "https://github.com/nessa-mello",
+    "email": "nessa_comex@hotmail.com",
+    "um_pouco_sobre_mim": [
+      "Me considero uma profissional multidisciplinar, iniciei minha carreira cedo, aos 16 anos, onde somei experiências e aprendizados que me auxiliaram e me trouxeram resiliência e adaptabilidade. Aprendi a olhar o mesmo problema de vários ângulos e trabalhar de forma colaborativa, levando em consideração o entendimento de outras pessoas e não só o meu, para chegar em uma solução.",
+      "Tenho mais de 10 anos de experiência em empresas dos mais diversos segmentos, na área Administrativa/Financeira e Contábil.",
+      "Sempre com o intuito de entender problemas e encontrar soluções, me senti atraida pela programação, onde eu consigo resolver problemas de todos os tipos usando códigos/lógica.",
+      "Formada em Administração de empresas, realizei alguns cursos direcionados essencialmente à área financeira e esse ano decidi mergulhar de cabeça e buscar me tornar um elo entre o mercado financeiro e a área de tecnologia.",
+      "Gosto muito de séries e criei um novo hobby que é assistir vídeo-aulas com conteúdo de programação.",
+      "Vivo procurando novidades que façam sentindo na minha vida e estou sempre aberta ao novo.",
+      "Estou sempre buscando experiências que possam agregar valor aos meus conhecimentos e aos parceiros com o qual trabalho."
+    ],
+    "no_que_ja_trabalhei": [
+      {
+      "cargo_funcao": "Desenvolvedora Front-End Freelancer - Projeto Voluntário",
+        "empresa": "Reprograma - Cliente: Gedêfem Assessoria Contábil e Administrativa",
+        "periodo": "Maio/2020",
+        "atividades_desenvolvidas": "Projeto de desenvolvimento com clientes reais durante o Bootcamp Reprograma. Trabalhei em uma equipe de 5 mulheres aonde desenvolvemos um site para um escritório de Contabilidade. Analisamos o layout, organizamos o fluxo de trabalho e publicamos o site online. Para a composição do código utilizamos as aptidões técnicas aprendidas no curso (HTML, CSS, BootStrap e JavaScript, unidas ao design responsivo do site). Essa foi a minha primeira experiência com um site completo, onde lidamos com as exigências e expectativas de um cliente real e todo o processo de criação.",
+        "link": "https://gedefem.com/index.html"
+      },
+      {
+        "cargo_funcao": "Assistente Financeiro",
+        "empresa": "Execution Comunicação Ltda",
+        "periodo": "Jul/2019 a Jan/2020",
+        "atividades_desenvolvidas": "Conhecimento em toda rotina financeira, input e baixa de pagamentos em sistema ERP, fluxo de caixa. Fechamento Fiscal impostos sobre Serviços Prestados e Tomados. Conciliação Contábil. Responsável pelos pagamentos para PJ e CLT.",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Analista Fiscal Junior",
+        "empresa": "Albieri e Associados – Consultoria Tributária, Contábil e Financeira ",
+        "periodo": "Dez/2018 a Jul/2019",
+        "atividades_desenvolvidas": "Codificação de notas fiscais no sistema On Base, imput de alíquotas dos impostos (PIS, COFINS, FUNRURAL e ICMS), relacionamento com concessionárias de energia elétrica, desenvolvendo rotina de contas a pagar e receber, conciliação bancária e baixa de títulos, inclusão de notas fiscais no sistema SAP para pagamento e acompanhamento das efetivações.",
+        "link": "https://aaconsulting.com.br/"
+      },
+      {
+        "cargo_funcao": "Assistente Contábil",
+        "empresa": "Dia Brasil Ltda",
+        "periodo": "Nov/2017 a Abr/2018",
+        "atividades_desenvolvidas": "Atuando como Outsourcing pela empresa Gaap Brasil Organização Contábil e Fiscal. Emissão de autorização de pagamento para impostos federais, emissão de boletos para pagamento de IPTU, lançamentos, estornos e conferências no ERP SAP.",
+        "link": "https://gaapbrasil.com.br/"
+      },
+      {
+        "cargo_funcao": "Assistente Administrativo",
+        "empresa": "HCFMUSP – HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DA UNIVERSIDADE DE SÃO PAULO",
+        "periodo": "Mar/2012 a Nov/2017",
+        "atividades_desenvolvidas": "Análise e conferência de guia TISS para lançamento no sistema operacional, emissão de contas ambulatoriais utilizando sistema (MULTIMED), análise e recurso de glosas, solicitação de autorizações para liberação de procedimentos e exames, preenchimento de guia TISS e montagem de relatórios estatísticos.",
+        "link": "https://http://ffm.br/"
+      }
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "Desenvolvimento Front-end",
+        "instituicao": "Reprograma",
+        "periodo": "Integral – 20 semanas",
+        "resumo_conhecimentos_aprendidos": "Bootcamp em parceria com a Estação Hack do Facebook, profissionaliza mulheres em desenvolvimento front-end por meio de aulas práticas e projetos, onde pude aprender UX Designer, HTML, CSS, Javascript, JQuery, Bootstraps, Git/GitHub e React"
+      },
+      {
+        "curso": "Ciências Contábeis",
+        "instituicao": "Ensino Superior - Faculdade Sumaré",
+        "periodo": "Fev/2016 a Jul/2019",
+        "resumo_conhecimentos_aprendidos": "Graduação em Ciências Contábeis - Concluído"
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Curso Introdução ao Git e Controle de Versões",
+        "instituicao": "Digital Innovation One Inc.",
+        "resumo_conhecimentos_interesses": "Primeiros passos, entendendo o que é o Git e o Github, configurando o git, aprendi a criar um repositório, fazer commits, push, clone e fork. Vi também o que é branch, porquê e como usar, além de entender merge"
+      },
+      {
+        "interesse_evento_curso": "Curso de HTML5 Completo",
+        "instituicao": "Curso em Vídeo",
+        "resumo_conhecimentos_interesses": "O curso é essencial para quem está começando a programar. Quando decidi iniciar com desenvolvimento front-end fiz o curso de HTML5 na plataforma online do Curso em Vídeo (40 horas)."
+      },
+      {
+        "interesse_evento_curso": "Fundamentos de Lógica de Programação",
+        "instituicao": "Fundação Bradesco - Escola Virtual",
+        "resumo_conhecimentos_interesses": "No curso são apresentados os fundamentos básicos da lógica da programação e as principais técnicas para o desenvolvimento de algoritmos."
+      },
+      {
+        "interesse_evento_curso": "Cálculo e Análise de Conta em Serviços de Saúde ",
+        "instituicao": "Senac São Paulo",
+        "resumo_conhecimentos_interesses": "Calcular e analisar contas de serviços de saúde, contribuindo para a otimização do resultado financeiro da empresa."
+      },
+      {
+        "interesse_evento_curso": "Participante ativa em Meetups de comunidades de TI"
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "JQUERY",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "NODE",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "BOOTSTRAP",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "REACT",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "RESPONSIVIDADE",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "UX DESIGN",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "PYTHON",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "MIRO",
+        "pontuacao": 8
+      }
+    ]
+  }
