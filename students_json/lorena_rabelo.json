@@ -1,0 +1,154 @@
+{
+  "nome_completo": "Lorena Rabelo",
+  "o_que_eu_quero": "Busco uma oportunidade como desenvolvedora front-end, em uma empresa que valorize a experiência do usuário e acessibilidade, e que eu possa me desenvolver profissionalmente.",
+  "cidade_estado:": "Tucuruvi - São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/lorena-rabelo/",
+  "link_github": "https://github.com/lorena-rabelo",
+  "email": "ola.lorenarabelo@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Trabalhei por muitos anos com Arquitetura, durante a graduação realizei pesquisa acadêmica, um intercâmbio para a Espanha e ano passado, depois de conhecer a área de UX, comecei a fazer alguns cursos na área e frequentar eventos de tecnologia. Pela proximidade com programação, e ver como um diferencial no mercado, comecei a estudar front-end, e se antes eu queria ser uma UXer que tem uma noção de programação, hoje, sou uma desenvolvedora que tem uma base de UX.\nMeu interesse por design, me leva a estudar bastante o tema, e realizei projetos onde além do código desenvolvi também o layout. Vejo o curso da Reprograma como o começo da trajetória na programação, continuo buscando conhecimento e incentivando outras mulheres a migrar para a área.\n<a href='https://portfolio-lorena-rabelo-reprograma.netlify.app/'>Link para o portfólio</a>"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Desenvolvedora Front-end",
+      "empresa": "Reprograma - Cliente Josi Chocolight",
+      "periodo": "Maio/2020",
+      "atividades_desenvolvidas": "A partir de um protótipo em alta fidelidade, junto com quatro desenvolvedoras, foi criado o website da empresa Josi Chocolight. Utilizamos HTML, CSS e JavaScript.",
+      "link": "https://www.josichocolight.com/"
+    },
+    {
+      "cargo_funcao": "Desenvolvedora Front-end",
+      "empresa": "Favela sem corona",
+      "periodo": "Mar/2020",
+      "atividades_desenvolvidas": "Responsável pelo layout e código do site do projeto social Favela sem corona, utilizando HTML, CSS e JavaScript.",
+      "link": "http://favelasemcorona.com/"
+    },
+    {
+      "cargo_funcao": "Estagiária de Arquitetura",
+      "empresa": "Ateliê Urbano Arquitetura Escolar",
+      "periodo": "Ago/2018 a Ago/2019",
+      "atividades_desenvolvidas": "Auxílio à criação e desenvolvimento de projetos de Arquitetura com foco em escolas, auxílio à equipe técnica, contato com fornecedores, realização de medições e modelagem 3D.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Pesquisadora",
+      "empresa": "Universidade Presbiteriana Mackenzie",
+      "periodo": "Fev/2017 a Fev/2018",
+      "atividades_desenvolvidas": "Participei do grupo de pesquisa sobre a produção contemporânea da habitação de interesse social, onde estudamos os impactos do programa Minha Casa, Minha Vida na região metropolitana de São Paulo.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Front-end",
+      "instituicao": "{reprograma}",
+      "periodo": "Mar/2020 a Jul/2020 | 700 Horas",
+      "resumo_conhecimentos_aprendidos": "Durante vinte semanas tive aulas de UX, HTML, CSS, JavaScript, JQuery, Bootstrap e React. Além do conteúdo teórico, ao longo do curso também foram realizados diversos projetos práticos e mentoria de carreira."
+    },
+    {
+      "curso": "UX | UI",
+      "instituicao": "Gama Academy",
+      "periodo": "Jun/2019 a Jul/2019",
+      "resumo_conhecimentos_aprendidos": "Introdução ao Design, fundamentos de UX e UI, metodologias de pesquisas e análises, métricas, protótipos e testes."
+    },
+    {
+      "curso": "Arquitetura e Urbanismo - trancado",
+      "instituicao": "Universidade Presbiteriana Mackenzie",
+      "periodo": "Jul/2014 a Jul/2019",
+      "resumo_conhecimentos_aprendidos": "Um curso multidisciplinar que analisa e compreende questões complexas, e me fez ter uma visão crítica sobre a cidade, buscar solucionar problemas e atender as necessidades, não só estéticas mas principalmente funcionais, dos usuários/clientes."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "JavaScript Completo ES6",
+      "instituicao": "Origamid | 33 Horas",
+      "resumo_conhecimentos_interesses": "Foco principal na aplicação da linguagem na web, através de manipulações do DOM e requisições via Fetch API."
+    },
+    {
+      "interesse_evento_curso": "Intercâmbio Acadêmico - Arquitetura",
+      "instituicao": "Universidad Politécnica de Madrid",
+      "resumo_conhecimentos_interesses": "Intercâmbio acadêmico pelo programa Ciência Sem Fronteiras com duração de um ano."
+    },
+    {
+      "interesse_evento_curso": "UI Design Avançado",
+      "instituicao": "Origamid",
+      "resumo_conhecimentos_interesses": ""
+    },
+    {
+      "interesse_evento_curso": "Git e Github na Vida Real",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": ""
+    },
+    {
+      "interesse_evento_curso": "Facilitação de Dinâmicas de Design",
+      "instituicao": "Mergo | 12 Horas",
+      "resumo_conhecimentos_interesses": ""
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "ESPANHOL",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 6
+    }
+  ]
+}
