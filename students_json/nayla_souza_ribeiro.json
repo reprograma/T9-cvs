@@ -1,0 +1,118 @@
+{
+  "nome_completo": "Nayla Souza Ribeiro",
+  "o_que_eu_quero": "Atuar como Desenvolvedora Front-end e aprender novas tecnologias.",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/naylasouzaribeiro/",
+  "link_github": "https://github.com/naylasouza",
+  "email": "naylasouzariibeiro@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Nayla, desenvolvedora front-end.Em 2019 acordou um sonho adormecido em ser desenvolvedora: em busca de novos desafios foi selecionada para participar do BootCamp de 20 semanas na {Reprograma}, que é um curso voltado para a inclusão de mulheres na área da tecnologia. Neste período aprendeu e colocou em pratica: HTML5, CSS, JS, JQUERY, BOOTSTRAP e REACT. Antes do bootcamp cursou “Produção Multimídia” na universidade Santa Cecília. Atuou durante 5 anos como fotografa, onde ministrou  palestras gratuitas pela prefeitura de sua cidade natal e em paralelo trabalhou como social media em uma escola infantil."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "Reprograma - Cliente Cozinha da Rê",
+      "periodo": "Projeto de 5 dias",
+      "atividades_desenvolvidas": "Projeto feito na Reprograma com clientes reais, feito em grupo composto de 5 pessoas e entregue em uma semana. Tecnologias utilizadas:Figma, Git, Github, HTML, CSS, Javascript, Bootstrap, Jquery.",
+      "link": "http://cozinhadare.com.br"
+    },
+    {
+      "cargo_funcao": "Professora de workshop",
+      "empresa": "Prefeitura de Cubatão",
+      "periodo": "2018",
+      "atividades_desenvolvidas": "Assuntos abordados: como dirigir a sua modelo na hora do ensaio, como extrair o melhor resultado de cada pessoa,tudo isso visto de maneira bem dinâmica."
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Front-end",
+      "instituicao": "Reprograma",
+      "periodo": "MAR/2020 a AGO/2020",
+      "resumo_conhecimentos_aprendidos": "Bootcamp para formação como desenvolvedora front-end. HTML5, CSS3, Bootstrap, Git/Github, JavaScript, jQuery e React e metodologia Scrum."
+    },
+    {
+      "curso": "Design System",
+      "instituicao": "Mergo User Experience",
+      "periodo": "2020",
+      "resumo_conhecimentos_aprendidos": "Temas: Atomic Design, team Canvas, mapa de Stakeholders, design Tokens, criando o Design System do zero"
+    },
+    {
+      "curso": "Produção Multimídia",
+      "instituicao": "Universidade Santa Cecília",
+      "periodo": "JAN/2013 a DEZ/2014 ",
+      "resumo_conhecimentos_aprendidos": "Produção Multimídia / Web Design, Design gráfico, fotografia e Vídeo digital"
+    }
+    
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso React.js Ninja - React Completo",
+      "instituicao": "Udemy"
+      }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+  
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+  
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "DESIGN SYSTEM",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "Lightroom",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 7
+    }
+    
+  ]
+}
