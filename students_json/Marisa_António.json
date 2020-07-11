@@ -1,17 +1,15 @@
-
-
 {
   "nome_completo": "Marisa de Fátima Humba António",
-  "o_que_eu_quero": "Busco oportunidade para atuar como desenvolvedora Front-End, com possibilidade de colocar em prática o conhecimento adquurido durante a formação e procurando soluçoes que possam melhorar a vidas das pessoas no dia a dia.",
+  "o_que_eu_quero": "Busco oportunidade para atuar como desenvolvedora Front-End, com possibilidade de colocar em prática o conhecimento adquirido durante a formação e procurando soluções que possam melhorar a vidas das pessoas no dia a dia.",
   "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "www.linkedin.com/in/marisa-antónio",
+  "link_linkedin": "https://linkedin.com/in/marisa-antónio",
   "link_github": "https://github.com/MARISA16",
   "email": "marisa2014antniomarisa@outlook.com",
   "um_pouco_sobre_mim": [
-    "Desafio é meu lema,minha vida pessoal e profissional é marcada por desafios e resolução de problemas e desde sempre sou entusiasta dos estudos e do conhecimento compartilhado.",
-    "Formada em Administração Pública,nunca atuei na área e por conta disso,decidi seguir novos rumos pois nunca me alegrei em enxergar o mundo de uma maneira só e por isso escolhi a área da tecnologia para compartilhar conhecimento.",
-    "EM 2020 fui selecionada para fazer parte do bootcamp intensivo da {Reprograma}  e o meu desejo é atuar como Desenvolvedora Front-End unindo o aprendizado técnico de novas linguagens à construção de soluções tecnológicas mais favoravel para todos.",
-    " Ligada em fortes interesse em inovação,criatividade,negócios e educação gosto de particpar em eventos voltadas para mulheres e negros na tecnologia e pricipalmente em eventos que estimulam um novo processo de desenvolvimento social e que promovem iniciativas que visam o bem-estar social do povo."
+    "Desafio é meu lema, minha vida pessoal e profissional é marcada por desafios e resolução de problemas e desde sempre sou entusiasta dos estudos e do conhecimento compartilhado.",
+    "Formada em Administração Pública, nunca atuei na área e por conta disso decidi seguir novos rumos pois nunca me alegrei em enxergar o mundo de uma maneira só e por isso escolhi a área da tecnologia para compartilhar conhecimento.",
+    "EM 2020 fui selecionada para fazer parte do bootcamp intensivo da {Reprograma} e o meu desejo é atuar como Desenvolvedora Front-End unindo o aprendizado técnico de novas linguagens à construção de soluções tecnológicas mais favoráveis para todos.",
+    "Fortes interesse em inovação, criatividade, negócios e educação, gosto de participar em eventos voltados para mulheres e negros na tecnologia e pricipalmente em eventos que estimulam um novo processo de desenvolvimento social e que promovem iniciativas que visam o bem-estar social do povo."
   ],
   "no_que_ja_trabalhei": [
 
@@ -19,7 +17,7 @@
       "cargo_funcao":"Desenvolvedora Front-End",
       "empresa":"{Reprograma}",
       "periodo":"Junho/2020",
-      "atividades_desenvolvidas":"Criação do website Josi Chocolight junto a uma equipe de 4 desenvolvedoras. Utilizamos HTML, CSS e JavaScript, com layout responsivo e com publicação no servidor do cliente.O resultado foi satisfatório para cliente."
+      "atividades_desenvolvidas":"Criação do website Josi Chocolight junto a uma equipe de 4 desenvolvedoras. Utilizamos HTML, CSS e JavaScript, com layout responsivo e com publicação no servidor do cliente. O resultado foi satisfatório para cliente."
     },
     {
       "cargo_funcao": "Estágiaria de  auxiliar administrativo (Carga horária:200h)",
@@ -41,7 +39,7 @@
       "curso": "{Reprograma}",
       "instituicao": "{Reprograma}",
       "periodo": "Mar/2020 a jul/2020",
-      "resumo_conhecimentos_aprendidos": "Aprendi linguagens, frameworks e bibliotecas do Html,CSS,React,javascript,Jquery,Bootstrap, trabalhos em quipes, criação de site com cliente real. Além disso, também adquiri os valores humano pois estava rodeada de Mulheres incriveis de diferentes estados e culturas. "
+      "resumo_conhecimentos_aprendidos": "Aprendi linguagens, frameworks e bibliotecas. Html, CSS, React, Javascript, Jquery, Bootstrap, trabalhos em quipes, criação de site com cliente real. Além disso, também adquiri os valores humanos pois estava rodeada de Mulheres incriveis de diferentes estados e culturas. "
     },
     {
       "curso": "Bacharelado em Administração Pública",
@@ -91,7 +89,6 @@
       "habilidade_ferramenta": "CSS",
       "pontuacao": 9
     },
-    
     {
       "habilidade_ferramenta": "JAVASCRIPT",
       "pontuacao": 8
