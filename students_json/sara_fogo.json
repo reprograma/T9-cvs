@@ -1,0 +1,179 @@
+{
+  "nome_completo": "Sara Fogo Silva Simão",
+  "o_que_eu_quero": "Estou aberta a oportunidades na área de tecnologia, desenvolvimento front-end na cidade de São Paulo",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/sara-fogo/",
+  "link_github": "https://github.com/sarafogo",
+  "email": "sarafogo.ss@gmail.com",
+  "um_pouco_sobre_mim": [
+    "O que me atraiu inicialmente à área de programação foi a estabilidade e dentro disso os desafios e evolução constante que a área proporciona.",
+    "Antes de começar a estudar linguagens acreditava que não me enquadraria, mas hoje vejo que todos os conhecimentos que adiquiri durante anos de estudos e trabalho so tem a acrescentar a nova área em que estou me inserindo.",
+    "Adoro aprender sobre as inovações de cada linguaguem e suas bibliotecas, espero um dia conseguir contribuir com elas",
+    
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Desenvolvedora Front-end - Voluntário",
+      "empresa": "{Reprogama}",
+      "periodo": "Jun/2020",
+      "atividades_desenvolvidas": "Junto com outras 4 colegas, desenvolvemos um site para uma produtora de São Paulo. Para desenvolve-lo usamos JavaScript, Bootstrap, CSS, e o deixamos com layout responsivo.",
+      "link": "https://oyaproducoesartisticas.com.br/"
+    },
+    {
+      "cargo_funcao": "Atendente/Barista",
+      "empresa": "Mia 182 café",
+      "periodo": "Dez/2011 a Mar/2013",
+      "atividades_desenvolvidas": "Atendimento ao cliente, recepção, apresentação de produtos e esclarecimento de dúvidas, organização de prateleiras, estocagem e organização do local. Desenvolver, preparar e servir cafés expressos e bebidas à base de café.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Recepcionista bilíngue, informação e bilheteria",
+      "empresa": "Paço do Frevo",
+      "periodo": "Mai/2016 a Mai/2018",
+      "atividades_desenvolvidas": "Atendimento de público, bilheteria, relatoria de atividades e controle de malote.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Agente de vendas/Gestão de qualidade",
+      "empresa": "TAM Viagens",
+      "periodo": "Ago/2015 a Fev/2016",
+      "atividades_desenvolvidas": "Atendimento de venda e consultoria a clientes: contato e relacionamento pós-venda; monitoramento do relacionamento equipe-cliente; envio de mailings; gerenciamento e postagem em mídias sociais.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Estagiária no Programa Todos Pela Alfabetização.",
+      "empresa": "Secretaria de Educação da Bahia",
+      "periodo": "Mar/2014 a Ago/2014",
+      "atividades_desenvolvidas": "Planejamento de conteúdo e organização de capacitações para professores. Análises e relatórios de resultado.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Agente de vendas/agente líder",
+      "empresa": "TAM Viagens",
+      "periodo": "Dez/2011 a Mar/2013",
+      "atividades_desenvolvidas": "Atendimento ao cliente, venda de passagens e pacotes turísticos, emissão e reemissão de passagens. Depois de 8 meses na empresa fui promovida a líder e passei a supervisionar a equipe de vendas além de fazer as atividades de agente.",
+      "link": null
+    }
+   
+    
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp em front-end",
+      "instituicao": "reprograma",
+      "periodo": "Mar a Jul/2020",
+      "resumo_conhecimentos_aprendidos": "Bootcamp focado em recolocar mulheres no mercado de trabalho de tecnologia. Inclui conhecimento de UX Design, HTML, CSS, JavaScript, Bootstrap, Jquery e React, com projetos desafiadores, aulas de empreendedorismo e orientação profissional."
+    },
+    {
+      "curso": "Letras",
+      "instituicao": "Universidade Federal de Pernambuco (UFPE)",
+      "periodo": "Mar/2017 a Mai/2019 - Trancado",
+      "resumo_conhecimentos_aprendidos": "Curso de graduação em letras espanhol, licenciatura."
+    },
+    {
+      "curso": "Letras",
+      "instituicao": "Universidade Federal da Bahia (UFBA)",
+      "periodo": "Ago/2014 a Jun/2015 - Trancado",
+      "resumo_conhecimentos_aprendidos": "Curso de graduação em letras vernáculas e línguas estrangeiras moderna, com licenciatura e bacharelado."
+    },
+    {
+      "curso": "Comissária de voo",
+      "instituicao": "NAV Treinamentos",
+      "periodo": "Jul/2010 a Nov/2010",
+      "resumo_conhecimentos_aprendidos": "Técnico em comissário de voo, com aulas de navegação aérea, meteorologia, sobrevivência e etiqueta."
+    }
+    
+    
+    
+    
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Python",
+      "instituicao": "Curso em vídeo",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica de Python"
+    },
+    {
+      "interesse_evento_curso": "Tech & Beer",
+      "instituicao": "Avanade",
+      "resumo_conhecimentos_interesses": "Evento sobre os benefícios da utilização da orientação a objetos no dia a dia do seu desenvolvimento."
+    },
+    {
+      "interesse_evento_curso": "Women in Tech: os Caminhos de Carreira em uma Empresa Global de Tecnologia",
+      "instituicao": "Uber Technologies",
+      "resumo_conhecimentos_interesses": "Painel Virtual sobre as oportunidades e desafios de ser uma mulheres na Tecnologia, e como elas estão percorrendo suas carreiras em Global Techs no Brasil."
+    },
+    {
+      "interesse_evento_curso": "Product Masterclass - em andamento",
+      "instituicao": "BossaBox",
+      "resumo_conhecimentos_interesses": "Masterclasses sobre Produto e Tecnologia, abordando desde Agile, frameworks e UX até tendências em tecnologia, dados e transformação digital. "
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ESPANHOL",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PYTHON",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+  
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "SCRUM",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 8
+    }
+  ]
+}
