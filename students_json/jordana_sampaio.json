@@ -1,0 +1,112 @@
+{
+  "nome_completo": "Karla Jordana Sampaio Duarte",
+  "o_que_eu_quero": "Me inserir no mercado como Desenvolvedora Front-end e aprimorar meus conhecimentos em tecnologia.",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/jordana-sampaio-5903301a5",
+  "link_github": "https://github.com/jordanasampaio",
+  "email": "jordanasamp@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Desenvolvedora Front-end formada pelo Bootcamp da Reprograma. Fisioterapeuta pela Faculdades Nordeste - FANOR.",
+    "Tenho certeza que a experiência adquirida como Fisioterapeuta me trará foco, senso de urgencia e habilidade de diálogo em ambientes e com pessoas diversas, assim como a curiosidade necessária para sempre aprender mais."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Fisioterapeuta",
+      "empresa": "Consultório de Fisioterapia Cist",
+      "periodo": "Jul/2015 a Jan/2018",
+      "atividades_desenvolvidas": "Atendimento adulto e pediátrico em Fisioterapia motora, respiratória, dermatoterapia e neurológica."
+    },
+    {
+      "cargo_funcao": "Web Writing ",
+      "empresa": "LAS serviços de tecnologia",
+      "periodo": "Nov/2014 a Out/2016",
+      "atividades_desenvolvidas": "Criação de conteúdos diversos."
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Fisioterapia",
+      "instituicao": "Faculdades Nordeste- Fanor",
+      "periodo": "Ago/2007 a Jun/2011"
+      
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "TRELLO",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MARKETING DIGITAL",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CRIAÇÃO DE CONTEÚDO DIGITAL",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ESPANHOL",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CRIATIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "TRABALHO EM EQUIPE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "FACILIDADE DE APRENDER",
+      "pontuacao": 8
+    }
+  ]
+}
