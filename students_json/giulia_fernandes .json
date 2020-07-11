@@ -1,0 +1,157 @@
+{
+  "nome_completo": "Giulia Fernandes Silva",
+  "o_que_eu_quero": "Estou em busca de oportunidades na área de tecnologia e desenvolvimento front-end. Desejo atuar encontrando soluções que trazem impactos positivos ao cotidiano das pessoas.",
+  "cidade_estado:": "Rio de Janeiro/RJ",
+  "link_linkedin": "https://www.linkedin.com/in/giuliafs/",
+  "link_github": "https://github.com/giffes",
+  "email": "giuliavfernandes@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou carioca, nascida e criada na zona oeste do Rio.",
+    "Apaixonada por mídia e tecnologia desde adolescente, encontrei no bacharelado de Estudos de Mídias uma oportunidade para aprender sobre como as pessoas consomem e se relacionam online, estudar o ciberespaço sob uma perspectiva antropológica e descobrir as possibilidades do design acessível. Exerci a função de Social Media freelancer e estagiária durante a faculdade, atividade que me auxiliou a entender hábitos de consumo e necessidades do consumidor.",
+    "Acredito que a tecnologia alcança seu potencial pleno quando investe na inclusão e diálogo com diversas manifestações culturais e sociais. Fui cativada pelas inúmeras possibilidades que a programação proporciona e pelo estimulo ao aprendizado constante na área de tecnologia."
+
+  ],
+  "no_que_ja_trabalhei": [
+
+    {
+      "cargo_funcao": "Desenvolvedora Front-End Freelancer",
+      "empresa": "Oyá Produções Artísticas",
+      "periodo": "Mai/2020",
+      "link": "https://oyaproducoes.netlify.app"
+    },
+    {
+      "cargo_funcao": "Social Media",
+      "empresa": "ECIN - UFF",
+      "periodo": "Ago/2019 a Mar/2020",
+      "atividades_desenvolvidas": "administrar as redes sociais, interagir com usuários, controle de métricas e produção de conteúdo.",
+      "link":null
+    },
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "Revista Capitolina",
+      "periodo": "Mar/2014 a Mar/2017",
+      "atividades_desenvolvidas": "colunista, Social Media, coordenadora da seção Tech & Games.",
+      "link": "http://www.revistacapitolina.com.br"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp Front-End",
+      "instituicao": "Reprograma",
+      "periodo": "Mar/2020 a Ago/2020",
+      "resumo_conhecimentos_aprendidos": "Bootcamp integral e intensivo para a formação de mulheres desenvolvedoras. Adquiri conhecimentos em HTML, CSS, Scrum, UX Design, Javascript, responsividade, Jquery, Bootstrap, acessibilidade, Github e React."
+    },
+    {
+      "curso": "Estudos de Mídia",
+      "instituicao": "UFF - Universidade Federal Fluminense",
+      "periodo": "Ago/2016 a Nov/2020",
+      "resumo_conhecimentos_aprendidos": "bacharelado cujo objetivo é formar profissionais com visão abrangente e integrada acerca dos meios de comunicação, sua dimensão institucional e organizacional, seu contexto histórico e cultural, suas diferentes linguagens, problemas de natureza ética, e seus fundamentos tecnológicos."
+    },
+    {
+      "curso": "Francês",
+      "instituicao": "International House, Nice, FR",
+      "periodo": "Jan/Mai-2015",
+      "resumo_conhecimentos_aprendidos": "Francês Intermediário"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "JavaScript Ninja",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "JavaScript, frameworks e bibliotecas"
+    },
+    {
+      "interesse_evento_curso": "React - The Complete Guide",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Reactjs, Hooks, Redux, React Routing, Next.js"
+    }
+   
+    
+  ],
+  "no_que_me_destaco": [
+
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 9
+    },
+  
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 9
+    },
+    
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 7
+    },
+
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 9
+    },
+
+    {
+      "habilidade_ferramenta": "FRANCÊS",
+      "pontuacao": 7
+    }
+
+    
+  ]
+}
