@@ -1,72 +1,73 @@
 {
   "nome_completo": "Odaraya Mello Lima dos Santos",
-  "o_que_eu_quero": "Artista visual em fusão de carreira com a tecnologia, busco experiência na área de frontend. Que me levem além compartilhando de ambiente de trabalho que seja enriquecedor socioculturalmente. ",
+  "o_que_eu_quero": "Consolidar a fusão de carreira entre arte e tecnologia em novas experiências de trabalho compartilhando de ambiente de profissional que seja enriquecedor socioculturalmente.",
   "cidade_estado:": "São Paulo/SP",
   "site:": "http://cargocollective.com/odarayamello",
   "link_linkedin": "https://www.linkedin.com/in/odaraya-mello",
   "link_github": "hhttps://github.com/Odaraya",
   "email": "odarayamello@gmail.com",
-
-  // "um_pouco_sobre_mim":
-  // [
-  //    "Aqui é um parágrafo descrevendo um pouco sobre você",
-
-  //    "Aqui é outro parágrafo falando sobre sua trajetória",
-
-  //    "Nesse aqui você pode dizer o que você curte fazer",
-
-  //    "Fique a vontade, mas busque ser objetiva"
-  // ],
+  "um_pouco_sobre_mim": [
+    "Carioca, residente em SP. Artista multidisciplinar e pesquisador autônomo.",
+    "Profissional desde 2008 já atuei como arte-educador, grafiteiro, agente social, produtor cultural, diretor de arte(video), cenotécnico, fotografo, até 2015 onde a produção contemporânea teve mais destaque.",
+    "Sua obra de destaque e a criação de um novo padrão de ‘origami’(dobradura de papel) com a biomimética do búzio, concha que já fora moeda no passado, e que em seu trabalho sintetiza diversos princípios científicos da linguagem, enagenaria, historia e estética.",
+    "Este trabalho que o inspira a buscar novas ferramentas e a  desenvolver ideias mesclando fontes de areas impares do conheicmento"
+  ],
 
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Gestão de Oficinas",
-      "empresa": "MASP - São Paulo, SP. Brasil.",
-      "periodo": "Set/2019",
-      "atividades_desenvolvidas": "Cartas sobre o fim do mundo: Narrativas do corpo, de sobrevivência,  de escrita ede cura"
+      "cargo_funcao": "Desenvolvimento Frontend - tech lead.",
+      "empresa": "BioAfetiva.",
+      "periodo": "maio/maio 2020",
+      "atividades_desenvolvidas": "Trabalho em grupo, desenvolvimento em múltiplas branchs(gith e github), reprodução de layout referencial. Aplicação das ferramentas html, css, javascript, bootstrap."
     },
     {
-      "cargo_funcao": "Criador, Artista",
-      "empresa": "Galpão Bela Maré. Rio de Janeiro - RJ. Brasil",
-      "periodo": "",
-      "atividades_desenvolvidas": "Exposição 'Metrópole Transcultural - Retratos das Periferias' com instalação “Aguero” (escultura modular, feita de 300 pequenas sacolas de água). 'Aguero' traz a questões de resistência, sobrevivência, atrito e o sentido comunitário."
+      "cargo_funcao": "Assistência Artística",
+      "empresa": "Atelier Afonso Tostes",
+      "periodo": "mar/2018 a jun/2019",
+      "atividades_desenvolvidas": "No cargo de assistente de artista atuei no atelier com as atividades manuais, administrativas no recebimento e retirada de materiais, coordenação dos outros assistentes, pude também gerar registros fotográficos."
     },
     {
-      "cargo_funcao": "Assistencia Artistica e/de Produção",
-      "empresa": "São Paulo, SP. Brasil.",
-      "periodo": "mar/2019 a jun/2019",
-      "atividades_desenvolvidas": "Exposição 'Floresta d'Água', de Afonso Tostes. No cargo de assistente de artista dentre atividades administrativa e coordenação dos outros assistentes, pude também gerar registros fotográficos e a assistência na Produção de peças de marcenaria."
+      "cargo_funcao": "Artista-Pesquisador",
+      "empresa": "Atelier Odaraya Mello/Residencia artística Instituto Sacatar",
+      "periodo": "out/2015 a nov/2015",
+      "atividades_desenvolvidas": "Pesquisa de campo, criação, inovação, elaboração de textual, registros e gerenciamento de oficina."
     }
   ],
 
   "o_que_ja_estudei": [
     {
-      "curso": "Práticas Artísticas Contemporâneas",
-      "instituicao": "Escola de Artes Visuais do Jardim Parque Lage - EAV - Rio de Janeiro-Rj - Brasil.",
-      "periodo": "Jan/2015 a Dez/2015 - 360 horas",
-      "resumo_conhecimentos_aprendidos": "Programa experimental de estudos de arte de Lisette Lagnado"
+      "curso": "Front-end",
+      "instituicao": "Reprograma",
+      "periodo": "maio/julho 2020",
+      "resumo_conhecimentos_aprendidos": "UX Design, HTML, CSS, Javascript, Git & Github, Scrum, JQuery, React e Bootstrap. Desenvolvemos projetos de aplicações à entrega de site implementado para cliente como voluntariado. "
     },
 
     {
+      "curso": "Práticas Artísticas Contemporâneas",
+      "instituicao": "Escola de Artes Visuais do Jardim Parque Lage - EAV - Rio de Janeiro-Rj - Brasil.",
+      "periodo": "Jan/2015 a Dez/2015 - 360 horas",
+      "resumo_conhecimentos_aprendidos": "Elaboração do pensamento teórico, critico no contexto politico cultural da arte contemporânea."
+    },
+    {
       "curso": "Técnico em Eventos e Produção Cultural",
-      "instituicao": "E.T.E. Adolph Bloch FAETEC. Inconcluso. Ensino Médio concluido via ENEM - Rio de Janeiro-RJ- Brasil.",
+      "instituicao": "E.T.E. Adolph Bloch FAETEC. Incompleto. - Rio de Janeiro-RJ- Brasil.",
       "periodo": "Jan/2009 a Nov/2011",
-      "resumo_conhecimentos_aprendidos": " Gestão, conscecpção de projeto cultural escrito e execução"
+      "resumo_conhecimentos_aprendidos": " Produção de eventos institucionais, culturais e/ou promocionais. Projetos escritos, digitais e leis de incentivo e voluntariado."
     }
   ],
 
   "meus_outros_aprendizados_e_interesses": [
     {
       "interesse_evento_curso": "Cs50",
-      "instituicao": "Harvard (nao concluido)",
-      "resumo_conhecimentos_aprendidos": "Conceitos de ciencia da computação sua historia e as realaçoes operacionais entre front e back-end."
+      "instituicao": "Harvard online (cursando)",
+      "resumo_conhecimentos_aprendidos": "Conceitos de ciência da computação, história e e principais linguagens."
     },
 
     {
       "curso": "História da vida através do objeto, história do objeto através da vida 2, Por Mana Bernardes",
       "instituicao": "Casa da Gávea Rio de Janeiro-RJ-Brasil.",
       "periodo": "2012",
-      "resumo_conhecimentos_aprendidos": "Contrução de narrativa atravez do proprio objeto, conceptuação criativa de historia de vida."
+      "resumo_conhecimentos_aprendidos": "Construção de narrativa através do próprio objeto, conceituação criativa de história de vida. Muito similar ao que hoje é chamado de UserHistory."
     }
   ],
 
@@ -118,7 +119,7 @@
     },
     {
       "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
-      "pontuacao": 5
+      "pontuacao": 4
     },
     {
       "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
@@ -126,7 +127,11 @@
     },
     {
       "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
-      "pontuacao": 4
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "PRODUÇÃO TEXTUAL",
+      "pontuacao": 9
     },
     {
       "habilidade_ferramenta": "INGLES",
@@ -139,6 +144,10 @@
     {
       "habilidade_ferramenta": "FRANCES E ALEMÃO",
       "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "ORIGAMI",
+      "pontuacao": 9
     }
   ]
 }
