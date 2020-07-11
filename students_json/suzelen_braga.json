@@ -1,0 +1,131 @@
+{
+  "nome_completo": "Suzelen Braga de Santana",
+  "o_que_eu_quero": "Estou aberta a oportunidades na área de tecnologia e desenvolvimento front-end, resolvendo problemas e encontrando soluções que melhorem o cotidiano das pessoas.",
+  "cidade_estado:": "Ribeirão Pires/SP",
+  "link_linkedin": "https://www.linkedin.com/in/suzelen-braga-de-santana/",
+  "link_github": "https://github.com/suzelen",
+  "email": "sul_2007@hotmail.com",
+  "um_pouco_sobre_mim": [
+"Bacharela em Administração e MBA em Marketing. Cerca de doze anos de experiência em Secretaria Acadêmica de Ensino Superior. Em 2019, fiz minha transição de carreira para área de Tecnologia e fui escolhida como uma das 30 alunas do bootcamp da {reprograma}.",
+"Minhas habilidades como desenvolvedora incluem HTML, CSS, Bootstrap, controle de versionamento de código (Git / Github), Javascript e seus frameworks, como React JS. Como aluna, estou sempre procurando me desenvolver por meio de cursos online, mantendo contato com a comunidade de tecnologia. Sou apaixonada por educação, tecnologia, e transfiro essa paixão para o meu dia a dia e meus trabalhos."
+
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Desenvolvedora Front-end Freelancer",
+      "empresa": "Josi Chocolight",
+      "periodo": "Junho/2020",
+      "atividades_desenvolvidas": "Criação do website da Josi Chocolight junto a uma equipe de 4 desenvolvedoras. Utilizamos HTML, CSS, Bootstrap e JavaScript, com layout responsivo (adaptado ao celular) e com publicação no servidor do cliente. O objetivo do cliente era ressaltar no layout e na interatividade do site sua marca e seus produtos.",
+      "link": "https://www.josichocolight.com/"
+    },
+    {
+      "cargo_funcao": "Secretária Acadêmica",
+      "empresa": "UNIVERSIDADE BRASIL ",
+      "periodo": "Junho/2014 a Outubro/2019",
+      "atividades_desenvolvidas": "Liderar uma equipe de 9 pessoas. Conhecimento do funcionamento de uma faculdade bem como suas legislações. Auxiliar na criação e aditamento do Plano de Desenvolvimento Institucional – PDI. Experiência em coordenação e implantação de cursos de graduação, bem como autorização, reconhecimento, renovação de reconhecimento de cursos e recredenciamento de faculdade. Organização do armário de documentos solicitados pelos avaliadores do MEC. Criação do Relato Institucional – RI, do Regimento Geral e do Projeto Pedagógico Institucional – PPI. Atendimento a diretoria, coordenação e ao público. ",
+      "link": "http://uniesp.edu.br/sites/ribeiraopires/index.php"
+    },
+    {
+      "cargo_funcao": "Auxiliar de Secretaria Acadêmica",
+      "empresa": "UNIVERSIDADE BRASIL ",
+      "periodo": "Janeiro/2008 a Maio/2014",
+      "atividades_desenvolvidas": "Rotinas de escritório: arquivos de documentos, confecção de atas, portarias, relatórios, ofícios, declarações, históricos, diplomas, conferência de documentos, organização de calendário acadêmico e organizar/conferir documentação do prontuário de professores em consonância com o currículo lattes.",
+      "link": "http://uniesp.edu.br/sites/ribeiraopires/index.php"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp Front-end",
+      "instituicao": "{reprograma}",
+      "periodo": "março/2020 a Julho/2020",
+      "resumo_conhecimentos_aprendidos": "O conteúdo do bootcamp, focado na formação de mulheres front-end developers inclui UX Design, Git e Github, Scrum, Lógica de Programação, HTML, CSS, JavaScript, Bootstrap, Jquery e React, projetos desafiadores, aulas de empreendedorismo e orientação profissional."
+    },
+    {
+      "curso": "Pós-Graduação: MBA em Marketing",
+      "instituicao": "Universidade Municipal de São Caetano do Sul - USCS",
+      "periodo": "Fevereiro/2012 a Dezembro/2013",
+      "resumo_conhecimentos_aprendidos": "Amplo domínio dos conteúdos que contribuem para a atuação profissional competente na área de eventos, com visão estratégica e forte embasamento teórico, oferecendo aplicabilidade efetiva da teoria para o empreendimento e elaboração das ações mais adequadas às necessidades dos diferentes tipos de clientes, sejam institucionais, corporativos, públicos ou não-governamentais."
+    },
+    {
+      "curso": "Graduação em Administração – Habilitação em Administração de Empresas - Bacharelado",
+      "instituicao": "Faculdades Integradas de Ribeirão Pires - FIRP",
+      "periodo": "Fevereiro/2008 a Dezembro/2011",
+      "resumo_conhecimentos_aprendidos": "O profissional é preparado para gerenciar recursos materiais, financeiros ou humanos de organizações jurídicas, podendo atuar em vários níveis, como a administração de uma equipe, de um departamento, empresa de pequeno porte, ou uma multinacional"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso de Lógica de Programação",
+      "instituicao": "Impacta Treinamentos",
+      "resumo_conhecimentos_interesses": "Desenvolvimento de soluções por meio da aplicação da lógica, segundo o paradigma de orientação a objetos, de modo a permitir a criação de softwares amigáveis, seguros e funcionais, independente da linguagem a ser usada na programação."
+    },
+    {
+      "interesse_evento_curso": "Curso de SQL Server",
+      "instituicao": "Impacta Treinamentos",
+      "resumo_conhecimentos_interesses": "Aprendi conceitos de bancos de dados e a utilização da linguagem SQL (Structured Query Language) para manipulação de dados."
+    },
+    {
+      "interesse_evento_curso": "Curso de Java",
+      "instituicao": "Impacta Treinamentos",
+      "resumo_conhecimentos_interesses": "Entendimento sobre algoritmos, variávieis, operadores Aritméticos, leitura de dados, operadores lógicos e estrutura condicional, switch, while. do while e for."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "SQL SERVER",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 9
+    }
+  ]
+}
